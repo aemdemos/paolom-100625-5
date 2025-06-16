@@ -1,0 +1,1739 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "instances": [
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/follow-the-money-juhani-grossmann-on-using-financial-crime-expertise-to-tackle-illegal-trade",
+          "urlHash": "01dce9d06bd8e3166d2cccde49b2a5782b8bd700",
+          "uuid": "01dce9d0-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/alibaba-in-focus-effective-collaboration-is-the-best-weapon-against-illicit-trade",
+          "urlHash": "043a24244d369cc60a223c4be1afbd663e392930",
+          "uuid": "043a2424-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/29-raids-in-five-countries-close-down-illegal-cigarette-factories-across-europe",
+          "urlHash": "14d92bec2e28bdd2711c22f5d3c872d3b62b87b4",
+          "uuid": "14d92bec-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/deutschland-entwickelt-sich-zum-zweitgr%C3%B6%C3%9Ften-markt-f%C3%BCr-illegalen-tabak-in-der-eu",
+          "urlHash": "2055b429b2011d3fde7e962e490492f9efaf238d",
+          "uuid": "2055b429-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/as-adult-smokers-in-france-turn-to-counterfeits-we-must-focus-on-raising-consumer-awareness",
+          "urlHash": "3569ee3964bdf41da9fd76af59eb6d0adba56da3",
+          "uuid": "3569ee39-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/effective-policymaking-and-law-enforcement-action-keys-to-making-cigarettes-a-thing-of-the-past",
+          "urlHash": "3799ca2a8e8ba9c4bbe70dd88e3b5d2de150ef8e",
+          "uuid": "3799ca2a-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/free-trade-zones-how-to-combat-illicit-trade-and-counterfeiting",
+          "urlHash": "39abb71a26d3426bdb32f8e37fdbaa209abb4081",
+          "uuid": "39abb71a-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/award-winning-anti-fraudulent-goods-campaign-leverages-partnerships-to-combat-illicit-trade",
+          "urlHash": "3df94a1542c5f2014490de73e008760f8aa28950",
+          "uuid": "3df94a15-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/collaboration-is-key-to-fighting-illicit-trade-at-sea",
+          "urlHash": "48a5f44676e706085beca74c0a53ab2d236d91d4",
+          "uuid": "48a5f446-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/finding-the-silver-lining-how-covid-19-led-to-closer-collaboration-in-south-africa-s-fight-against-illicit-trade",
+          "urlHash": "5148d5b67395e244b3b5623b2bb1da00b23e2b4b",
+          "uuid": "5148d5b6-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/fighting-illicit-trade-in-latin-america-turning-the-tide-on-illegal-tobacco",
+          "urlHash": "5313c469df6ea6f307a85086fdec2f2b58612a08",
+          "uuid": "5313c469-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/free-trade-zones-need-better-regulation-to-fight-crime",
+          "urlHash": "5405dace327f46da65d70fd97a4d45a18edb7f0b",
+          "uuid": "5405dace-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/counterfeit-cigarettes-on-the-rise-within-eu-borders",
+          "urlHash": "5d418cdfa36a10872e00f2f283bc95d2f1685666",
+          "uuid": "5d418cdf-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/balkan-smugg-report-shows-there-is-no-room-for-complacency-over-illicit-trade-in-the-region",
+          "urlHash": "63c8bb79b0a6289102cbf7928d208b397df937d1",
+          "uuid": "63c8bb79-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/sustainability",
+          "urlHash": "65f78eb0027e2404c036880c7a67d87cfa1603ae",
+          "uuid": "65f78eb0-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/ban-on-cigarette-sales-deepens-illicit-trade-problem-in-south-africa",
+          "urlHash": "66f7990447090446ee764fa58f3ca1cd16bb05ae",
+          "uuid": "66f79904-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/ambassador-alessandro-minuto-rizzo-on-combatting-illicit-trade-in-the-balkans",
+          "urlHash": "6c18d230e7b7c6f3b595dbf68e1da71843d74b5e",
+          "uuid": "6c18d230-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/anti-illicit-leaders-gather-in-greece-to-combat-global-black-market",
+          "urlHash": "730d65cfa10cb91701b9f4fd5a4233808289c4db",
+          "uuid": "730d65cf-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/driss-benomar-women-could-be-the-key-to-fighting-all-forms-of-extremism-in-africa",
+          "urlHash": "759e960af01d849b64413f2624d00ef00caeb269",
+          "uuid": "759e960a-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/from-pandemics-to-protection-discussing-wildlife-trade-and-covid-19-with-freeland",
+          "urlHash": "7d13333e1a38fdeea9609906ee044b674f9c0020",
+          "uuid": "7d13333e-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/combatting-global-criminal-enterprises-in-ftzs",
+          "urlHash": "a00988dd85bd6467414ec4ae662c170743c4d1b1",
+          "uuid": "a00988dd-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/can-tech-stem-the-rise-in-illicit-trade-an-interview-with-carlos-moreira",
+          "urlHash": "a1390641bb616c876253dc9e29262ca18c0ac839",
+          "uuid": "a1390641-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/coronavirus-worsens-usd-4.4-billion-global-counterfeit-medicine-problem",
+          "urlHash": "abf8dad078cec11f4758c62cd390f786332284ea",
+          "uuid": "abf8dad0-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/adult-smokers-deserve-access-to-smoke-free-products-even-during-tough-times",
+          "urlHash": "b5deb03ec3d4bb74183529d0439634fbd18c4956",
+          "uuid": "b5deb03e-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/countering-the-counterfeiters-with-alibaba",
+          "urlHash": "b7b0da2ce8cc1365c7032fb9ab130e806ab40edb",
+          "uuid": "b7b0da2c-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/disrupting-illicit-trade-technology-innovation-is-needed-to-crack-a-global-issue",
+          "urlHash": "bb36c5da755f16d0064e45387893c5e90788a0c9",
+          "uuid": "bb36c5da-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/empty-cigarette-packs-left-on-streets-and-in-bins-across-the-world-can-shed-light-on-illicit-trade",
+          "urlHash": "c4009fd2a510d2f11cf1ac31d6fb10295f851502",
+          "uuid": "c4009fd2-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/dissecting-rogue-cigarettes",
+          "urlHash": "c502d1024b3118a17e46840639b01082095f760e",
+          "uuid": "c502d102-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/artificial-intelligence-to-tackle-trafficking-across-eu-borders",
+          "urlHash": "c76979f5b39501858dde69f48d576b6d5b1473b2",
+          "uuid": "c76979f5-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/colombia-navy-pulls-off-consecutive-seizures-of-more-than-79-million-illicit-cigarettes",
+          "urlHash": "cd0f90f0af50cab54aa3f296f04e1e976ed701f8",
+          "uuid": "cd0f90f0-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/ensuring-the-integrity-of-our-supply-chain-is-paramount-to-pmi-achieving-its-smoke-free-vision",
+          "urlHash": "d057481340b1d3b91affd9b72a8cd7fdb2a72bef",
+          "uuid": "d0574813-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/concerns-grow-as-illicit-wildlife-trade-spikes-during-covid-19-pandemic",
+          "urlHash": "e6048a6a88f94a1e554607b830ff230d9a6f95e3",
+          "uuid": "e6048a6a-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "instances": [
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/follow-the-money-juhani-grossmann-on-using-financial-crime-expertise-to-tackle-illegal-trade",
+          "urlHash": "01dce9d06bd8e3166d2cccde49b2a5782b8bd700",
+          "uuid": "01dce9d0-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/alibaba-in-focus-effective-collaboration-is-the-best-weapon-against-illicit-trade",
+          "urlHash": "043a24244d369cc60a223c4be1afbd663e392930",
+          "uuid": "043a2424-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/29-raids-in-five-countries-close-down-illegal-cigarette-factories-across-europe",
+          "urlHash": "14d92bec2e28bdd2711c22f5d3c872d3b62b87b4",
+          "uuid": "14d92bec-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/deutschland-entwickelt-sich-zum-zweitgr%C3%B6%C3%9Ften-markt-f%C3%BCr-illegalen-tabak-in-der-eu",
+          "urlHash": "2055b429b2011d3fde7e962e490492f9efaf238d",
+          "uuid": "2055b429-07-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/as-adult-smokers-in-france-turn-to-counterfeits-we-must-focus-on-raising-consumer-awareness",
+          "urlHash": "3569ee3964bdf41da9fd76af59eb6d0adba56da3",
+          "uuid": "3569ee39-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/effective-policymaking-and-law-enforcement-action-keys-to-making-cigarettes-a-thing-of-the-past",
+          "urlHash": "3799ca2a8e8ba9c4bbe70dd88e3b5d2de150ef8e",
+          "uuid": "3799ca2a-05-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/free-trade-zones-how-to-combat-illicit-trade-and-counterfeiting",
+          "urlHash": "39abb71a26d3426bdb32f8e37fdbaa209abb4081",
+          "uuid": "39abb71a-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/award-winning-anti-fraudulent-goods-campaign-leverages-partnerships-to-combat-illicit-trade",
+          "urlHash": "3df94a1542c5f2014490de73e008760f8aa28950",
+          "uuid": "3df94a15-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/collaboration-is-key-to-fighting-illicit-trade-at-sea",
+          "urlHash": "48a5f44676e706085beca74c0a53ab2d236d91d4",
+          "uuid": "48a5f446-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/finding-the-silver-lining-how-covid-19-led-to-closer-collaboration-in-south-africa-s-fight-against-illicit-trade",
+          "urlHash": "5148d5b67395e244b3b5623b2bb1da00b23e2b4b",
+          "uuid": "5148d5b6-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/fighting-illicit-trade-in-latin-america-turning-the-tide-on-illegal-tobacco",
+          "urlHash": "5313c469df6ea6f307a85086fdec2f2b58612a08",
+          "uuid": "5313c469-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/free-trade-zones-need-better-regulation-to-fight-crime",
+          "urlHash": "5405dace327f46da65d70fd97a4d45a18edb7f0b",
+          "uuid": "5405dace-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/counterfeit-cigarettes-on-the-rise-within-eu-borders",
+          "urlHash": "5d418cdfa36a10872e00f2f283bc95d2f1685666",
+          "uuid": "5d418cdf-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/balkan-smugg-report-shows-there-is-no-room-for-complacency-over-illicit-trade-in-the-region",
+          "urlHash": "63c8bb79b0a6289102cbf7928d208b397df937d1",
+          "uuid": "63c8bb79-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/sustainability",
+          "urlHash": "65f78eb0027e2404c036880c7a67d87cfa1603ae",
+          "uuid": "65f78eb0-27-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/ban-on-cigarette-sales-deepens-illicit-trade-problem-in-south-africa",
+          "urlHash": "66f7990447090446ee764fa58f3ca1cd16bb05ae",
+          "uuid": "66f79904-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/ambassador-alessandro-minuto-rizzo-on-combatting-illicit-trade-in-the-balkans",
+          "urlHash": "6c18d230e7b7c6f3b595dbf68e1da71843d74b5e",
+          "uuid": "6c18d230-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/anti-illicit-leaders-gather-in-greece-to-combat-global-black-market",
+          "urlHash": "730d65cfa10cb91701b9f4fd5a4233808289c4db",
+          "uuid": "730d65cf-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/driss-benomar-women-could-be-the-key-to-fighting-all-forms-of-extremism-in-africa",
+          "urlHash": "759e960af01d849b64413f2624d00ef00caeb269",
+          "uuid": "759e960a-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/from-pandemics-to-protection-discussing-wildlife-trade-and-covid-19-with-freeland",
+          "urlHash": "7d13333e1a38fdeea9609906ee044b674f9c0020",
+          "uuid": "7d13333e-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/combatting-global-criminal-enterprises-in-ftzs",
+          "urlHash": "a00988dd85bd6467414ec4ae662c170743c4d1b1",
+          "uuid": "a00988dd-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/can-tech-stem-the-rise-in-illicit-trade-an-interview-with-carlos-moreira",
+          "urlHash": "a1390641bb616c876253dc9e29262ca18c0ac839",
+          "uuid": "a1390641-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/coronavirus-worsens-usd-4.4-billion-global-counterfeit-medicine-problem",
+          "urlHash": "abf8dad078cec11f4758c62cd390f786332284ea",
+          "uuid": "abf8dad0-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/adult-smokers-deserve-access-to-smoke-free-products-even-during-tough-times",
+          "urlHash": "b5deb03ec3d4bb74183529d0439634fbd18c4956",
+          "uuid": "b5deb03e-05-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/countering-the-counterfeiters-with-alibaba",
+          "urlHash": "b7b0da2ce8cc1365c7032fb9ab130e806ab40edb",
+          "uuid": "b7b0da2c-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/disrupting-illicit-trade-technology-innovation-is-needed-to-crack-a-global-issue",
+          "urlHash": "bb36c5da755f16d0064e45387893c5e90788a0c9",
+          "uuid": "bb36c5da-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/empty-cigarette-packs-left-on-streets-and-in-bins-across-the-world-can-shed-light-on-illicit-trade",
+          "urlHash": "c4009fd2a510d2f11cf1ac31d6fb10295f851502",
+          "uuid": "c4009fd2-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/dissecting-rogue-cigarettes",
+          "urlHash": "c502d1024b3118a17e46840639b01082095f760e",
+          "uuid": "c502d102-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/artificial-intelligence-to-tackle-trafficking-across-eu-borders",
+          "urlHash": "c76979f5b39501858dde69f48d576b6d5b1473b2",
+          "uuid": "c76979f5-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/colombia-navy-pulls-off-consecutive-seizures-of-more-than-79-million-illicit-cigarettes",
+          "urlHash": "cd0f90f0af50cab54aa3f296f04e1e976ed701f8",
+          "uuid": "cd0f90f0-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/ensuring-the-integrity-of-our-supply-chain-is-paramount-to-pmi-achieving-its-smoke-free-vision",
+          "urlHash": "d057481340b1d3b91affd9b72a8cd7fdb2a72bef",
+          "uuid": "d0574813-05-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/concerns-grow-as-illicit-wildlife-trade-spikes-during-covid-19-pandemic",
+          "urlHash": "e6048a6a88f94a1e554607b830ff230d9a6f95e3",
+          "uuid": "e6048a6a-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        }
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "name": "header",
+      "cluster": 1,
+      "source": "Header",
+      "target": "Header (header1)",
+      "key": "header1",
+      "instances": [
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/follow-the-money-juhani-grossmann-on-using-financial-crime-expertise-to-tackle-illegal-trade",
+          "urlHash": "01dce9d06bd8e3166d2cccde49b2a5782b8bd700",
+          "uuid": "01dce9d0-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/alibaba-in-focus-effective-collaboration-is-the-best-weapon-against-illicit-trade",
+          "urlHash": "043a24244d369cc60a223c4be1afbd663e392930",
+          "uuid": "043a2424-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/29-raids-in-five-countries-close-down-illegal-cigarette-factories-across-europe",
+          "urlHash": "14d92bec2e28bdd2711c22f5d3c872d3b62b87b4",
+          "uuid": "14d92bec-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/deutschland-entwickelt-sich-zum-zweitgr%C3%B6%C3%9Ften-markt-f%C3%BCr-illegalen-tabak-in-der-eu",
+          "urlHash": "2055b429b2011d3fde7e962e490492f9efaf238d",
+          "uuid": "2055b429-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/as-adult-smokers-in-france-turn-to-counterfeits-we-must-focus-on-raising-consumer-awareness",
+          "urlHash": "3569ee3964bdf41da9fd76af59eb6d0adba56da3",
+          "uuid": "3569ee39-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/effective-policymaking-and-law-enforcement-action-keys-to-making-cigarettes-a-thing-of-the-past",
+          "urlHash": "3799ca2a8e8ba9c4bbe70dd88e3b5d2de150ef8e",
+          "uuid": "3799ca2a-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/free-trade-zones-how-to-combat-illicit-trade-and-counterfeiting",
+          "urlHash": "39abb71a26d3426bdb32f8e37fdbaa209abb4081",
+          "uuid": "39abb71a-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/award-winning-anti-fraudulent-goods-campaign-leverages-partnerships-to-combat-illicit-trade",
+          "urlHash": "3df94a1542c5f2014490de73e008760f8aa28950",
+          "uuid": "3df94a15-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/collaboration-is-key-to-fighting-illicit-trade-at-sea",
+          "urlHash": "48a5f44676e706085beca74c0a53ab2d236d91d4",
+          "uuid": "48a5f446-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/finding-the-silver-lining-how-covid-19-led-to-closer-collaboration-in-south-africa-s-fight-against-illicit-trade",
+          "urlHash": "5148d5b67395e244b3b5623b2bb1da00b23e2b4b",
+          "uuid": "5148d5b6-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/fighting-illicit-trade-in-latin-america-turning-the-tide-on-illegal-tobacco",
+          "urlHash": "5313c469df6ea6f307a85086fdec2f2b58612a08",
+          "uuid": "5313c469-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/free-trade-zones-need-better-regulation-to-fight-crime",
+          "urlHash": "5405dace327f46da65d70fd97a4d45a18edb7f0b",
+          "uuid": "5405dace-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/counterfeit-cigarettes-on-the-rise-within-eu-borders",
+          "urlHash": "5d418cdfa36a10872e00f2f283bc95d2f1685666",
+          "uuid": "5d418cdf-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/balkan-smugg-report-shows-there-is-no-room-for-complacency-over-illicit-trade-in-the-region",
+          "urlHash": "63c8bb79b0a6289102cbf7928d208b397df937d1",
+          "uuid": "63c8bb79-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/sustainability",
+          "urlHash": "65f78eb0027e2404c036880c7a67d87cfa1603ae",
+          "uuid": "65f78eb0-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/ban-on-cigarette-sales-deepens-illicit-trade-problem-in-south-africa",
+          "urlHash": "66f7990447090446ee764fa58f3ca1cd16bb05ae",
+          "uuid": "66f79904-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/ambassador-alessandro-minuto-rizzo-on-combatting-illicit-trade-in-the-balkans",
+          "urlHash": "6c18d230e7b7c6f3b595dbf68e1da71843d74b5e",
+          "uuid": "6c18d230-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/anti-illicit-leaders-gather-in-greece-to-combat-global-black-market",
+          "urlHash": "730d65cfa10cb91701b9f4fd5a4233808289c4db",
+          "uuid": "730d65cf-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/driss-benomar-women-could-be-the-key-to-fighting-all-forms-of-extremism-in-africa",
+          "urlHash": "759e960af01d849b64413f2624d00ef00caeb269",
+          "uuid": "759e960a-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/from-pandemics-to-protection-discussing-wildlife-trade-and-covid-19-with-freeland",
+          "urlHash": "7d13333e1a38fdeea9609906ee044b674f9c0020",
+          "uuid": "7d13333e-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/combatting-global-criminal-enterprises-in-ftzs",
+          "urlHash": "a00988dd85bd6467414ec4ae662c170743c4d1b1",
+          "uuid": "a00988dd-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/can-tech-stem-the-rise-in-illicit-trade-an-interview-with-carlos-moreira",
+          "urlHash": "a1390641bb616c876253dc9e29262ca18c0ac839",
+          "uuid": "a1390641-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/coronavirus-worsens-usd-4.4-billion-global-counterfeit-medicine-problem",
+          "urlHash": "abf8dad078cec11f4758c62cd390f786332284ea",
+          "uuid": "abf8dad0-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/adult-smokers-deserve-access-to-smoke-free-products-even-during-tough-times",
+          "urlHash": "b5deb03ec3d4bb74183529d0439634fbd18c4956",
+          "uuid": "b5deb03e-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/countering-the-counterfeiters-with-alibaba",
+          "urlHash": "b7b0da2ce8cc1365c7032fb9ab130e806ab40edb",
+          "uuid": "b7b0da2c-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/disrupting-illicit-trade-technology-innovation-is-needed-to-crack-a-global-issue",
+          "urlHash": "bb36c5da755f16d0064e45387893c5e90788a0c9",
+          "uuid": "bb36c5da-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/empty-cigarette-packs-left-on-streets-and-in-bins-across-the-world-can-shed-light-on-illicit-trade",
+          "urlHash": "c4009fd2a510d2f11cf1ac31d6fb10295f851502",
+          "uuid": "c4009fd2-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/dissecting-rogue-cigarettes",
+          "urlHash": "c502d1024b3118a17e46840639b01082095f760e",
+          "uuid": "c502d102-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/artificial-intelligence-to-tackle-trafficking-across-eu-borders",
+          "urlHash": "c76979f5b39501858dde69f48d576b6d5b1473b2",
+          "uuid": "c76979f5-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/colombia-navy-pulls-off-consecutive-seizures-of-more-than-79-million-illicit-cigarettes",
+          "urlHash": "cd0f90f0af50cab54aa3f296f04e1e976ed701f8",
+          "uuid": "cd0f90f0-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/ensuring-the-integrity-of-our-supply-chain-is-paramount-to-pmi-achieving-its-smoke-free-vision",
+          "urlHash": "d057481340b1d3b91affd9b72a8cd7fdb2a72bef",
+          "uuid": "d0574813-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/concerns-grow-as-illicit-wildlife-trade-spikes-during-covid-19-pandemic",
+          "urlHash": "e6048a6a88f94a1e554607b830ff230d9a6f95e3",
+          "uuid": "e6048a6a-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 2,
+      "instances": [
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/follow-the-money-juhani-grossmann-on-using-financial-crime-expertise-to-tackle-illegal-trade",
+          "urlHash": "01dce9d06bd8e3166d2cccde49b2a5782b8bd700",
+          "uuid": "01dce9d0-03-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/balkan-smugg-report-shows-there-is-no-room-for-complacency-over-illicit-trade-in-the-region",
+          "urlHash": "63c8bb79b0a6289102cbf7928d208b397df937d1",
+          "uuid": "63c8bb79-03-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/coronavirus-worsens-usd-4.4-billion-global-counterfeit-medicine-problem",
+          "urlHash": "abf8dad078cec11f4758c62cd390f786332284ea",
+          "uuid": "abf8dad0-03-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/dissecting-rogue-cigarettes",
+          "urlHash": "c502d1024b3118a17e46840639b01082095f760e",
+          "uuid": "c502d102-03-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+        }
+      ]
+    },
+    {
+      "name": "Search",
+      "cluster": 3,
+      "source": "Search",
+      "target": "Search (search3)",
+      "key": "search3",
+      "instances": [
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/alibaba-in-focus-effective-collaboration-is-the-best-weapon-against-illicit-trade",
+          "urlHash": "043a24244d369cc60a223c4be1afbd663e392930",
+          "uuid": "043a2424-03-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/29-raids-in-five-countries-close-down-illegal-cigarette-factories-across-europe",
+          "urlHash": "14d92bec2e28bdd2711c22f5d3c872d3b62b87b4",
+          "uuid": "14d92bec-03-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/free-trade-zones-need-better-regulation-to-fight-crime",
+          "urlHash": "5405dace327f46da65d70fd97a4d45a18edb7f0b",
+          "uuid": "5405dace-03-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/counterfeit-cigarettes-on-the-rise-within-eu-borders",
+          "urlHash": "5d418cdfa36a10872e00f2f283bc95d2f1685666",
+          "uuid": "5d418cdf-03-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/ambassador-alessandro-minuto-rizzo-on-combatting-illicit-trade-in-the-balkans",
+          "urlHash": "6c18d230e7b7c6f3b595dbf68e1da71843d74b5e",
+          "uuid": "6c18d230-03-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/driss-benomar-women-could-be-the-key-to-fighting-all-forms-of-extremism-in-africa",
+          "urlHash": "759e960af01d849b64413f2624d00ef00caeb269",
+          "uuid": "759e960a-03-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/countering-the-counterfeiters-with-alibaba",
+          "urlHash": "b7b0da2ce8cc1365c7032fb9ab130e806ab40edb",
+          "uuid": "b7b0da2c-03-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/artificial-intelligence-to-tackle-trafficking-across-eu-borders",
+          "urlHash": "c76979f5b39501858dde69f48d576b6d5b1473b2",
+          "uuid": "c76979f5-03-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/colombia-navy-pulls-off-consecutive-seizures-of-more-than-79-million-illicit-cigarettes",
+          "urlHash": "cd0f90f0af50cab54aa3f296f04e1e976ed701f8",
+          "uuid": "cd0f90f0-03-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+        }
+      ]
+    },
+    {
+      "name": "Search",
+      "cluster": 4,
+      "source": "Search",
+      "target": "Search (search4)",
+      "key": "search4",
+      "instances": [
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/fighting-illicit-trade-in-latin-america-turning-the-tide-on-illegal-tobacco",
+          "urlHash": "5313c469df6ea6f307a85086fdec2f2b58612a08",
+          "uuid": "5313c469-03-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/disrupting-illicit-trade-technology-innovation-is-needed-to-crack-a-global-issue",
+          "urlHash": "bb36c5da755f16d0064e45387893c5e90788a0c9",
+          "uuid": "bb36c5da-03-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 5,
+      "source": "Cards",
+      "target": "Cards (cards5)",
+      "key": "cards5",
+      "instances": [
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/finding-the-silver-lining-how-covid-19-led-to-closer-collaboration-in-south-africa-s-fight-against-illicit-trade",
+          "urlHash": "5148d5b67395e244b3b5623b2bb1da00b23e2b4b",
+          "uuid": "5148d5b6-03-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/from-pandemics-to-protection-discussing-wildlife-trade-and-covid-19-with-freeland",
+          "urlHash": "7d13333e1a38fdeea9609906ee044b674f9c0020",
+          "uuid": "7d13333e-03-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+        }
+      ]
+    },
+    {
+      "name": "Embed (video)",
+      "cluster": 6,
+      "source": "Embed",
+      "target": "Embed (embedVideo6)",
+      "key": "embedVideo6",
+      "instances": [
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/anti-illicit-leaders-gather-in-greece-to-combat-global-black-market",
+          "urlHash": "730d65cfa10cb91701b9f4fd5a4233808289c4db",
+          "uuid": "730d65cf-03-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/combatting-global-criminal-enterprises-in-ftzs",
+          "urlHash": "a00988dd85bd6467414ec4ae662c170743c4d1b1",
+          "uuid": "a00988dd-03-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 7,
+      "source": "Columns",
+      "target": "Columns (columns7)",
+      "key": "columns7",
+      "instances": [
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/as-adult-smokers-in-france-turn-to-counterfeits-we-must-focus-on-raising-consumer-awareness",
+          "urlHash": "3569ee3964bdf41da9fd76af59eb6d0adba56da3",
+          "uuid": "3569ee39-03-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/can-tech-stem-the-rise-in-illicit-trade-an-interview-with-carlos-moreira",
+          "urlHash": "a1390641bb616c876253dc9e29262ca18c0ac839",
+          "uuid": "a1390641-03-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/empty-cigarette-packs-left-on-streets-and-in-bins-across-the-world-can-shed-light-on-illicit-trade",
+          "urlHash": "c4009fd2a510d2f11cf1ac31d6fb10295f851502",
+          "uuid": "c4009fd2-03-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 8,
+      "source": "Cards",
+      "target": "Cards (cards8)",
+      "key": "cards8",
+      "instances": [
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/deutschland-entwickelt-sich-zum-zweitgr%C3%B6%C3%9Ften-markt-f%C3%BCr-illegalen-tabak-in-der-eu",
+          "urlHash": "2055b429b2011d3fde7e962e490492f9efaf238d",
+          "uuid": "2055b429-06-70e982f8f3cb22ae42ed3582427d1cf6771b2cb3",
+          "xpath": "/html[1]/body[1]/main[1]/section[3]/div[2]/section[2]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Embed (video)",
+      "cluster": 9,
+      "source": "Embed",
+      "target": "Embed (embedVideo9)",
+      "key": "embedVideo9",
+      "instances": [
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/free-trade-zones-how-to-combat-illicit-trade-and-counterfeiting",
+          "urlHash": "39abb71a26d3426bdb32f8e37fdbaa209abb4081",
+          "uuid": "39abb71a-03-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 10,
+      "source": "Columns",
+      "target": "Columns (columns10)",
+      "key": "columns10",
+      "instances": [
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/follow-the-money-juhani-grossmann-on-using-financial-crime-expertise-to-tackle-illegal-trade",
+          "urlHash": "01dce9d06bd8e3166d2cccde49b2a5782b8bd700",
+          "uuid": "01dce9d0-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/alibaba-in-focus-effective-collaboration-is-the-best-weapon-against-illicit-trade",
+          "urlHash": "043a24244d369cc60a223c4be1afbd663e392930",
+          "uuid": "043a2424-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/29-raids-in-five-countries-close-down-illegal-cigarette-factories-across-europe",
+          "urlHash": "14d92bec2e28bdd2711c22f5d3c872d3b62b87b4",
+          "uuid": "14d92bec-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/deutschland-entwickelt-sich-zum-zweitgr%C3%B6%C3%9Ften-markt-f%C3%BCr-illegalen-tabak-in-der-eu",
+          "urlHash": "2055b429b2011d3fde7e962e490492f9efaf238d",
+          "uuid": "2055b429-07-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/as-adult-smokers-in-france-turn-to-counterfeits-we-must-focus-on-raising-consumer-awareness",
+          "urlHash": "3569ee3964bdf41da9fd76af59eb6d0adba56da3",
+          "uuid": "3569ee39-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/effective-policymaking-and-law-enforcement-action-keys-to-making-cigarettes-a-thing-of-the-past",
+          "urlHash": "3799ca2a8e8ba9c4bbe70dd88e3b5d2de150ef8e",
+          "uuid": "3799ca2a-05-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/free-trade-zones-how-to-combat-illicit-trade-and-counterfeiting",
+          "urlHash": "39abb71a26d3426bdb32f8e37fdbaa209abb4081",
+          "uuid": "39abb71a-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/award-winning-anti-fraudulent-goods-campaign-leverages-partnerships-to-combat-illicit-trade",
+          "urlHash": "3df94a1542c5f2014490de73e008760f8aa28950",
+          "uuid": "3df94a15-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/collaboration-is-key-to-fighting-illicit-trade-at-sea",
+          "urlHash": "48a5f44676e706085beca74c0a53ab2d236d91d4",
+          "uuid": "48a5f446-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/finding-the-silver-lining-how-covid-19-led-to-closer-collaboration-in-south-africa-s-fight-against-illicit-trade",
+          "urlHash": "5148d5b67395e244b3b5623b2bb1da00b23e2b4b",
+          "uuid": "5148d5b6-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/fighting-illicit-trade-in-latin-america-turning-the-tide-on-illegal-tobacco",
+          "urlHash": "5313c469df6ea6f307a85086fdec2f2b58612a08",
+          "uuid": "5313c469-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/free-trade-zones-need-better-regulation-to-fight-crime",
+          "urlHash": "5405dace327f46da65d70fd97a4d45a18edb7f0b",
+          "uuid": "5405dace-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/counterfeit-cigarettes-on-the-rise-within-eu-borders",
+          "urlHash": "5d418cdfa36a10872e00f2f283bc95d2f1685666",
+          "uuid": "5d418cdf-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/balkan-smugg-report-shows-there-is-no-room-for-complacency-over-illicit-trade-in-the-region",
+          "urlHash": "63c8bb79b0a6289102cbf7928d208b397df937d1",
+          "uuid": "63c8bb79-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/sustainability",
+          "urlHash": "65f78eb0027e2404c036880c7a67d87cfa1603ae",
+          "uuid": "65f78eb0-27-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/ban-on-cigarette-sales-deepens-illicit-trade-problem-in-south-africa",
+          "urlHash": "66f7990447090446ee764fa58f3ca1cd16bb05ae",
+          "uuid": "66f79904-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/ambassador-alessandro-minuto-rizzo-on-combatting-illicit-trade-in-the-balkans",
+          "urlHash": "6c18d230e7b7c6f3b595dbf68e1da71843d74b5e",
+          "uuid": "6c18d230-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/anti-illicit-leaders-gather-in-greece-to-combat-global-black-market",
+          "urlHash": "730d65cfa10cb91701b9f4fd5a4233808289c4db",
+          "uuid": "730d65cf-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/driss-benomar-women-could-be-the-key-to-fighting-all-forms-of-extremism-in-africa",
+          "urlHash": "759e960af01d849b64413f2624d00ef00caeb269",
+          "uuid": "759e960a-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/from-pandemics-to-protection-discussing-wildlife-trade-and-covid-19-with-freeland",
+          "urlHash": "7d13333e1a38fdeea9609906ee044b674f9c0020",
+          "uuid": "7d13333e-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/combatting-global-criminal-enterprises-in-ftzs",
+          "urlHash": "a00988dd85bd6467414ec4ae662c170743c4d1b1",
+          "uuid": "a00988dd-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/can-tech-stem-the-rise-in-illicit-trade-an-interview-with-carlos-moreira",
+          "urlHash": "a1390641bb616c876253dc9e29262ca18c0ac839",
+          "uuid": "a1390641-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/coronavirus-worsens-usd-4.4-billion-global-counterfeit-medicine-problem",
+          "urlHash": "abf8dad078cec11f4758c62cd390f786332284ea",
+          "uuid": "abf8dad0-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/adult-smokers-deserve-access-to-smoke-free-products-even-during-tough-times",
+          "urlHash": "b5deb03ec3d4bb74183529d0439634fbd18c4956",
+          "uuid": "b5deb03e-05-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/countering-the-counterfeiters-with-alibaba",
+          "urlHash": "b7b0da2ce8cc1365c7032fb9ab130e806ab40edb",
+          "uuid": "b7b0da2c-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/disrupting-illicit-trade-technology-innovation-is-needed-to-crack-a-global-issue",
+          "urlHash": "bb36c5da755f16d0064e45387893c5e90788a0c9",
+          "uuid": "bb36c5da-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/empty-cigarette-packs-left-on-streets-and-in-bins-across-the-world-can-shed-light-on-illicit-trade",
+          "urlHash": "c4009fd2a510d2f11cf1ac31d6fb10295f851502",
+          "uuid": "c4009fd2-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/dissecting-rogue-cigarettes",
+          "urlHash": "c502d1024b3118a17e46840639b01082095f760e",
+          "uuid": "c502d102-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/artificial-intelligence-to-tackle-trafficking-across-eu-borders",
+          "urlHash": "c76979f5b39501858dde69f48d576b6d5b1473b2",
+          "uuid": "c76979f5-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/colombia-navy-pulls-off-consecutive-seizures-of-more-than-79-million-illicit-cigarettes",
+          "urlHash": "cd0f90f0af50cab54aa3f296f04e1e976ed701f8",
+          "uuid": "cd0f90f0-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/ensuring-the-integrity-of-our-supply-chain-is-paramount-to-pmi-achieving-its-smoke-free-vision",
+          "urlHash": "d057481340b1d3b91affd9b72a8cd7fdb2a72bef",
+          "uuid": "d0574813-05-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/concerns-grow-as-illicit-wildlife-trade-spikes-during-covid-19-pandemic",
+          "urlHash": "e6048a6a88f94a1e554607b830ff230d9a6f95e3",
+          "uuid": "e6048a6a-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 11,
+      "source": "Columns",
+      "target": "Columns (columns11)",
+      "key": "columns11",
+      "instances": [
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/follow-the-money-juhani-grossmann-on-using-financial-crime-expertise-to-tackle-illegal-trade",
+          "urlHash": "01dce9d06bd8e3166d2cccde49b2a5782b8bd700",
+          "uuid": "01dce9d0-02-a14b7d0691292a0650a94e921f0a2b874152fe6f",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/alibaba-in-focus-effective-collaboration-is-the-best-weapon-against-illicit-trade",
+          "urlHash": "043a24244d369cc60a223c4be1afbd663e392930",
+          "uuid": "043a2424-02-a14b7d0691292a0650a94e921f0a2b874152fe6f",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/29-raids-in-five-countries-close-down-illegal-cigarette-factories-across-europe",
+          "urlHash": "14d92bec2e28bdd2711c22f5d3c872d3b62b87b4",
+          "uuid": "14d92bec-02-a14b7d0691292a0650a94e921f0a2b874152fe6f",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/deutschland-entwickelt-sich-zum-zweitgr%C3%B6%C3%9Ften-markt-f%C3%BCr-illegalen-tabak-in-der-eu",
+          "urlHash": "2055b429b2011d3fde7e962e490492f9efaf238d",
+          "uuid": "2055b429-01-a14b7d0691292a0650a94e921f0a2b874152fe6f",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/as-adult-smokers-in-france-turn-to-counterfeits-we-must-focus-on-raising-consumer-awareness",
+          "urlHash": "3569ee3964bdf41da9fd76af59eb6d0adba56da3",
+          "uuid": "3569ee39-02-a14b7d0691292a0650a94e921f0a2b874152fe6f",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/effective-policymaking-and-law-enforcement-action-keys-to-making-cigarettes-a-thing-of-the-past",
+          "urlHash": "3799ca2a8e8ba9c4bbe70dd88e3b5d2de150ef8e",
+          "uuid": "3799ca2a-02-a14b7d0691292a0650a94e921f0a2b874152fe6f",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/free-trade-zones-how-to-combat-illicit-trade-and-counterfeiting",
+          "urlHash": "39abb71a26d3426bdb32f8e37fdbaa209abb4081",
+          "uuid": "39abb71a-02-a14b7d0691292a0650a94e921f0a2b874152fe6f",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/award-winning-anti-fraudulent-goods-campaign-leverages-partnerships-to-combat-illicit-trade",
+          "urlHash": "3df94a1542c5f2014490de73e008760f8aa28950",
+          "uuid": "3df94a15-02-a14b7d0691292a0650a94e921f0a2b874152fe6f",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/collaboration-is-key-to-fighting-illicit-trade-at-sea",
+          "urlHash": "48a5f44676e706085beca74c0a53ab2d236d91d4",
+          "uuid": "48a5f446-02-a14b7d0691292a0650a94e921f0a2b874152fe6f",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/finding-the-silver-lining-how-covid-19-led-to-closer-collaboration-in-south-africa-s-fight-against-illicit-trade",
+          "urlHash": "5148d5b67395e244b3b5623b2bb1da00b23e2b4b",
+          "uuid": "5148d5b6-02-a14b7d0691292a0650a94e921f0a2b874152fe6f",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/fighting-illicit-trade-in-latin-america-turning-the-tide-on-illegal-tobacco",
+          "urlHash": "5313c469df6ea6f307a85086fdec2f2b58612a08",
+          "uuid": "5313c469-02-a14b7d0691292a0650a94e921f0a2b874152fe6f",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/free-trade-zones-need-better-regulation-to-fight-crime",
+          "urlHash": "5405dace327f46da65d70fd97a4d45a18edb7f0b",
+          "uuid": "5405dace-02-a14b7d0691292a0650a94e921f0a2b874152fe6f",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/counterfeit-cigarettes-on-the-rise-within-eu-borders",
+          "urlHash": "5d418cdfa36a10872e00f2f283bc95d2f1685666",
+          "uuid": "5d418cdf-02-a14b7d0691292a0650a94e921f0a2b874152fe6f",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/balkan-smugg-report-shows-there-is-no-room-for-complacency-over-illicit-trade-in-the-region",
+          "urlHash": "63c8bb79b0a6289102cbf7928d208b397df937d1",
+          "uuid": "63c8bb79-02-a14b7d0691292a0650a94e921f0a2b874152fe6f",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/ban-on-cigarette-sales-deepens-illicit-trade-problem-in-south-africa",
+          "urlHash": "66f7990447090446ee764fa58f3ca1cd16bb05ae",
+          "uuid": "66f79904-02-a14b7d0691292a0650a94e921f0a2b874152fe6f",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/ambassador-alessandro-minuto-rizzo-on-combatting-illicit-trade-in-the-balkans",
+          "urlHash": "6c18d230e7b7c6f3b595dbf68e1da71843d74b5e",
+          "uuid": "6c18d230-02-a14b7d0691292a0650a94e921f0a2b874152fe6f",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/anti-illicit-leaders-gather-in-greece-to-combat-global-black-market",
+          "urlHash": "730d65cfa10cb91701b9f4fd5a4233808289c4db",
+          "uuid": "730d65cf-02-a14b7d0691292a0650a94e921f0a2b874152fe6f",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/driss-benomar-women-could-be-the-key-to-fighting-all-forms-of-extremism-in-africa",
+          "urlHash": "759e960af01d849b64413f2624d00ef00caeb269",
+          "uuid": "759e960a-02-a14b7d0691292a0650a94e921f0a2b874152fe6f",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/from-pandemics-to-protection-discussing-wildlife-trade-and-covid-19-with-freeland",
+          "urlHash": "7d13333e1a38fdeea9609906ee044b674f9c0020",
+          "uuid": "7d13333e-02-a14b7d0691292a0650a94e921f0a2b874152fe6f",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/combatting-global-criminal-enterprises-in-ftzs",
+          "urlHash": "a00988dd85bd6467414ec4ae662c170743c4d1b1",
+          "uuid": "a00988dd-02-a14b7d0691292a0650a94e921f0a2b874152fe6f",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/can-tech-stem-the-rise-in-illicit-trade-an-interview-with-carlos-moreira",
+          "urlHash": "a1390641bb616c876253dc9e29262ca18c0ac839",
+          "uuid": "a1390641-02-a14b7d0691292a0650a94e921f0a2b874152fe6f",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/coronavirus-worsens-usd-4.4-billion-global-counterfeit-medicine-problem",
+          "urlHash": "abf8dad078cec11f4758c62cd390f786332284ea",
+          "uuid": "abf8dad0-02-a14b7d0691292a0650a94e921f0a2b874152fe6f",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/adult-smokers-deserve-access-to-smoke-free-products-even-during-tough-times",
+          "urlHash": "b5deb03ec3d4bb74183529d0439634fbd18c4956",
+          "uuid": "b5deb03e-02-a14b7d0691292a0650a94e921f0a2b874152fe6f",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/countering-the-counterfeiters-with-alibaba",
+          "urlHash": "b7b0da2ce8cc1365c7032fb9ab130e806ab40edb",
+          "uuid": "b7b0da2c-02-a14b7d0691292a0650a94e921f0a2b874152fe6f",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/disrupting-illicit-trade-technology-innovation-is-needed-to-crack-a-global-issue",
+          "urlHash": "bb36c5da755f16d0064e45387893c5e90788a0c9",
+          "uuid": "bb36c5da-02-a14b7d0691292a0650a94e921f0a2b874152fe6f",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/empty-cigarette-packs-left-on-streets-and-in-bins-across-the-world-can-shed-light-on-illicit-trade",
+          "urlHash": "c4009fd2a510d2f11cf1ac31d6fb10295f851502",
+          "uuid": "c4009fd2-02-a14b7d0691292a0650a94e921f0a2b874152fe6f",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/dissecting-rogue-cigarettes",
+          "urlHash": "c502d1024b3118a17e46840639b01082095f760e",
+          "uuid": "c502d102-02-a14b7d0691292a0650a94e921f0a2b874152fe6f",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/artificial-intelligence-to-tackle-trafficking-across-eu-borders",
+          "urlHash": "c76979f5b39501858dde69f48d576b6d5b1473b2",
+          "uuid": "c76979f5-02-a14b7d0691292a0650a94e921f0a2b874152fe6f",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/colombia-navy-pulls-off-consecutive-seizures-of-more-than-79-million-illicit-cigarettes",
+          "urlHash": "cd0f90f0af50cab54aa3f296f04e1e976ed701f8",
+          "uuid": "cd0f90f0-02-a14b7d0691292a0650a94e921f0a2b874152fe6f",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/ensuring-the-integrity-of-our-supply-chain-is-paramount-to-pmi-achieving-its-smoke-free-vision",
+          "urlHash": "d057481340b1d3b91affd9b72a8cd7fdb2a72bef",
+          "uuid": "d0574813-02-a14b7d0691292a0650a94e921f0a2b874152fe6f",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/concerns-grow-as-illicit-wildlife-trade-spikes-during-covid-19-pandemic",
+          "urlHash": "e6048a6a88f94a1e554607b830ff230d9a6f95e3",
+          "uuid": "e6048a6a-02-a14b7d0691292a0650a94e921f0a2b874152fe6f",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 12,
+      "instances": [
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/effective-policymaking-and-law-enforcement-action-keys-to-making-cigarettes-a-thing-of-the-past",
+          "urlHash": "3799ca2a8e8ba9c4bbe70dd88e3b5d2de150ef8e",
+          "uuid": "3799ca2a-03-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 13,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages13)",
+      "key": "cardsNoImages13",
+      "instances": [
+        {
+          "url": "https://www.pmi.com/sustainability",
+          "urlHash": "65f78eb0027e2404c036880c7a67d87cfa1603ae",
+          "uuid": "65f78eb0-23-807529f3ac816f5bb999fa4a8f7da9ce9ddd058c",
+          "xpath": "/html[1]/body[1]/main[1]/section[8]/div[1]/section[1]"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 14,
+      "source": "Accordion",
+      "target": "Accordion (accordion14)",
+      "key": "accordion14",
+      "instances": [
+        {
+          "url": "https://www.pmi.com/sustainability",
+          "urlHash": "65f78eb0027e2404c036880c7a67d87cfa1603ae",
+          "uuid": "65f78eb0-04-bb0b594c9616c4d68e4e73b31a6b3c4fa0cb855e",
+          "xpath": "/html[1]/body[1]/main[1]/section[3]/div[1]/section[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 15,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages15)",
+      "key": "cardsNoImages15",
+      "instances": [
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/adult-smokers-deserve-access-to-smoke-free-products-even-during-tough-times",
+          "urlHash": "b5deb03ec3d4bb74183529d0439634fbd18c4956",
+          "uuid": "b5deb03e-03-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/ensuring-the-integrity-of-our-supply-chain-is-paramount-to-pmi-achieving-its-smoke-free-vision",
+          "urlHash": "d057481340b1d3b91affd9b72a8cd7fdb2a72bef",
+          "uuid": "d0574813-03-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 16,
+      "instances": [
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/award-winning-anti-fraudulent-goods-campaign-leverages-partnerships-to-combat-illicit-trade",
+          "urlHash": "3df94a1542c5f2014490de73e008760f8aa28950",
+          "uuid": "3df94a15-03-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 17,
+      "instances": [
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/deutschland-entwickelt-sich-zum-zweitgr%C3%B6%C3%9Ften-markt-f%C3%BCr-illegalen-tabak-in-der-eu",
+          "urlHash": "2055b429b2011d3fde7e962e490492f9efaf238d",
+          "uuid": "2055b429-02-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 18,
+      "source": "Cards",
+      "target": "Cards (cards18)",
+      "key": "cards18",
+      "instances": [
+        {
+          "url": "https://www.pmi.com/sustainability",
+          "urlHash": "65f78eb0027e2404c036880c7a67d87cfa1603ae",
+          "uuid": "65f78eb0-10-75804b1c48cfc77cffacdc953d62fbc87d59859d",
+          "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/section[1]"
+        }
+      ]
+    },
+    {
+      "name": "Embed (video)",
+      "cluster": 19,
+      "source": "Embed",
+      "target": "Embed (embedVideo19)",
+      "key": "embedVideo19",
+      "instances": [
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/collaboration-is-key-to-fighting-illicit-trade-at-sea",
+          "urlHash": "48a5f44676e706085beca74c0a53ab2d236d91d4",
+          "uuid": "48a5f446-03-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 20,
+      "source": "Cards",
+      "target": "Cards (cards20)",
+      "key": "cards20",
+      "instances": [
+        {
+          "url": "https://www.pmi.com/sustainability",
+          "urlHash": "65f78eb0027e2404c036880c7a67d87cfa1603ae",
+          "uuid": "65f78eb0-18-0619da5739e9aa312a8a2e4b149cef354483cffd",
+          "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[3]/section[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 21,
+      "instances": [
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/concerns-grow-as-illicit-wildlife-trade-spikes-during-covid-19-pandemic",
+          "urlHash": "e6048a6a88f94a1e554607b830ff230d9a6f95e3",
+          "uuid": "e6048a6a-03-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 22,
+      "source": "Cards",
+      "target": "Cards (cards22)",
+      "key": "cards22",
+      "instances": [
+        {
+          "url": "https://www.pmi.com/sustainability",
+          "urlHash": "65f78eb0027e2404c036880c7a67d87cfa1603ae",
+          "uuid": "65f78eb0-13-5564b3984575fe6901d398d074178f5f11bef18e",
+          "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[3]/section[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 23,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages23)",
+      "key": "cardsNoImages23",
+      "instances": [
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/ban-on-cigarette-sales-deepens-illicit-trade-problem-in-south-africa",
+          "urlHash": "66f7990447090446ee764fa58f3ca1cd16bb05ae",
+          "uuid": "66f79904-03-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 24,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages24)",
+      "key": "cardsNoImages24",
+      "instances": [
+        {
+          "url": "https://www.pmi.com/sustainability",
+          "urlHash": "65f78eb0027e2404c036880c7a67d87cfa1603ae",
+          "uuid": "65f78eb0-25-a203bd112b47743116f0775a5208090e2498d5a1",
+          "xpath": "/html[1]/body[1]/main[1]/section[8]/div[1]/section[2]"
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/follow-the-money-juhani-grossmann-on-using-financial-crime-expertise-to-tackle-illegal-trade",
+      "urlHash": "01dce9d06bd8e3166d2cccde49b2a5782b8bd700",
+      "uuid": "01dce9d0-01-5a29a6c0dedef07e2c83c80490e123e7ffd9bbe1",
+      "xpath": "/html[1]/body[1]/main[1]/nav[1]"
+    },
+    {
+      "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/alibaba-in-focus-effective-collaboration-is-the-best-weapon-against-illicit-trade",
+      "urlHash": "043a24244d369cc60a223c4be1afbd663e392930",
+      "uuid": "043a2424-01-5a29a6c0dedef07e2c83c80490e123e7ffd9bbe1",
+      "xpath": "/html[1]/body[1]/main[1]/nav[1]"
+    },
+    {
+      "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/29-raids-in-five-countries-close-down-illegal-cigarette-factories-across-europe",
+      "urlHash": "14d92bec2e28bdd2711c22f5d3c872d3b62b87b4",
+      "uuid": "14d92bec-01-5a29a6c0dedef07e2c83c80490e123e7ffd9bbe1",
+      "xpath": "/html[1]/body[1]/main[1]/nav[1]"
+    },
+    {
+      "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/deutschland-entwickelt-sich-zum-zweitgr%C3%B6%C3%9Ften-markt-f%C3%BCr-illegalen-tabak-in-der-eu",
+      "urlHash": "2055b429b2011d3fde7e962e490492f9efaf238d",
+      "uuid": "2055b429-03-7defd6b376c4845b3c6882c3315af326e3f7b034",
+      "xpath": "/html[1]/body[1]/main[1]/section[3]/div[2]/div[1]"
+    },
+    {
+      "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/deutschland-entwickelt-sich-zum-zweitgr%C3%B6%C3%9Ften-markt-f%C3%BCr-illegalen-tabak-in-der-eu",
+      "urlHash": "2055b429b2011d3fde7e962e490492f9efaf238d",
+      "uuid": "2055b429-04-2d4ce3109b9c818056e7425bea8ee2309f489c7d",
+      "xpath": "/html[1]/body[1]/main[1]/section[3]/div[2]/section[1]"
+    },
+    {
+      "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/deutschland-entwickelt-sich-zum-zweitgr%C3%B6%C3%9Ften-markt-f%C3%BCr-illegalen-tabak-in-der-eu",
+      "urlHash": "2055b429b2011d3fde7e962e490492f9efaf238d",
+      "uuid": "2055b429-05-e1e18405ca381bdb07c2c5a50947984e88bb0058",
+      "xpath": "/html[1]/body[1]/main[1]/section[3]/div[2]/section[2]/h2[1]"
+    },
+    {
+      "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/as-adult-smokers-in-france-turn-to-counterfeits-we-must-focus-on-raising-consumer-awareness",
+      "urlHash": "3569ee3964bdf41da9fd76af59eb6d0adba56da3",
+      "uuid": "3569ee39-01-5a29a6c0dedef07e2c83c80490e123e7ffd9bbe1",
+      "xpath": "/html[1]/body[1]/main[1]/nav[1]"
+    },
+    {
+      "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/effective-policymaking-and-law-enforcement-action-keys-to-making-cigarettes-a-thing-of-the-past",
+      "urlHash": "3799ca2a8e8ba9c4bbe70dd88e3b5d2de150ef8e",
+      "uuid": "3799ca2a-01-5a29a6c0dedef07e2c83c80490e123e7ffd9bbe1",
+      "xpath": "/html[1]/body[1]/main[1]/nav[1]"
+    },
+    {
+      "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/effective-policymaking-and-law-enforcement-action-keys-to-making-cigarettes-a-thing-of-the-past",
+      "urlHash": "3799ca2a8e8ba9c4bbe70dd88e3b5d2de150ef8e",
+      "uuid": "3799ca2a-04-045e8db173ca22951665ee5910ab005c2698ce44",
+      "xpath": "/html[1]/body[1]/main[1]/section[3]"
+    },
+    {
+      "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/free-trade-zones-how-to-combat-illicit-trade-and-counterfeiting",
+      "urlHash": "39abb71a26d3426bdb32f8e37fdbaa209abb4081",
+      "uuid": "39abb71a-01-5a29a6c0dedef07e2c83c80490e123e7ffd9bbe1",
+      "xpath": "/html[1]/body[1]/main[1]/nav[1]"
+    },
+    {
+      "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/award-winning-anti-fraudulent-goods-campaign-leverages-partnerships-to-combat-illicit-trade",
+      "urlHash": "3df94a1542c5f2014490de73e008760f8aa28950",
+      "uuid": "3df94a15-01-5a29a6c0dedef07e2c83c80490e123e7ffd9bbe1",
+      "xpath": "/html[1]/body[1]/main[1]/nav[1]"
+    },
+    {
+      "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/collaboration-is-key-to-fighting-illicit-trade-at-sea",
+      "urlHash": "48a5f44676e706085beca74c0a53ab2d236d91d4",
+      "uuid": "48a5f446-01-5a29a6c0dedef07e2c83c80490e123e7ffd9bbe1",
+      "xpath": "/html[1]/body[1]/main[1]/nav[1]"
+    },
+    {
+      "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/finding-the-silver-lining-how-covid-19-led-to-closer-collaboration-in-south-africa-s-fight-against-illicit-trade",
+      "urlHash": "5148d5b67395e244b3b5623b2bb1da00b23e2b4b",
+      "uuid": "5148d5b6-01-5a29a6c0dedef07e2c83c80490e123e7ffd9bbe1",
+      "xpath": "/html[1]/body[1]/main[1]/nav[1]"
+    },
+    {
+      "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/fighting-illicit-trade-in-latin-america-turning-the-tide-on-illegal-tobacco",
+      "urlHash": "5313c469df6ea6f307a85086fdec2f2b58612a08",
+      "uuid": "5313c469-01-5a29a6c0dedef07e2c83c80490e123e7ffd9bbe1",
+      "xpath": "/html[1]/body[1]/main[1]/nav[1]"
+    },
+    {
+      "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/free-trade-zones-need-better-regulation-to-fight-crime",
+      "urlHash": "5405dace327f46da65d70fd97a4d45a18edb7f0b",
+      "uuid": "5405dace-01-5a29a6c0dedef07e2c83c80490e123e7ffd9bbe1",
+      "xpath": "/html[1]/body[1]/main[1]/nav[1]"
+    },
+    {
+      "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/counterfeit-cigarettes-on-the-rise-within-eu-borders",
+      "urlHash": "5d418cdfa36a10872e00f2f283bc95d2f1685666",
+      "uuid": "5d418cdf-01-5a29a6c0dedef07e2c83c80490e123e7ffd9bbe1",
+      "xpath": "/html[1]/body[1]/main[1]/nav[1]"
+    },
+    {
+      "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/balkan-smugg-report-shows-there-is-no-room-for-complacency-over-illicit-trade-in-the-region",
+      "urlHash": "63c8bb79b0a6289102cbf7928d208b397df937d1",
+      "uuid": "63c8bb79-01-5a29a6c0dedef07e2c83c80490e123e7ffd9bbe1",
+      "xpath": "/html[1]/body[1]/main[1]/nav[1]"
+    },
+    {
+      "url": "https://www.pmi.com/sustainability",
+      "urlHash": "65f78eb0027e2404c036880c7a67d87cfa1603ae",
+      "uuid": "65f78eb0-01-770d2e0c4d4eee95e8c13dd3f7e0167f55566930",
+      "xpath": "/html[1]/body[1]/main[1]/section[1]/section[1]/div[1]/div[2]/picture[1]"
+    },
+    {
+      "url": "https://www.pmi.com/sustainability",
+      "urlHash": "65f78eb0027e2404c036880c7a67d87cfa1603ae",
+      "uuid": "65f78eb0-02-1b8facdda2a866f87ce072247b193cf69f9f772b",
+      "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/section[2]/div[1]/div[1]/div[1]/picture[1]"
+    },
+    {
+      "url": "https://www.pmi.com/sustainability",
+      "urlHash": "65f78eb0027e2404c036880c7a67d87cfa1603ae",
+      "uuid": "65f78eb0-03-3c9b5a2d18e7d33e29cc6c28785e4d03e0e08cf3",
+      "xpath": "/html[1]/body[1]/main[1]/section[3]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.pmi.com/sustainability",
+      "urlHash": "65f78eb0027e2404c036880c7a67d87cfa1603ae",
+      "uuid": "65f78eb0-05-33a2fb5e32b94da865deb86968f0153fe2ddaf28",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.pmi.com/sustainability",
+      "urlHash": "65f78eb0027e2404c036880c7a67d87cfa1603ae",
+      "uuid": "65f78eb0-06-059a0b6ad72dfc4c6ebcab1bdcb1ae3c41cd840b",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.pmi.com/sustainability",
+      "urlHash": "65f78eb0027e2404c036880c7a67d87cfa1603ae",
+      "uuid": "65f78eb0-07-59308b4b7331929037a960e484f6696241cf5fa0",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/picture[1]"
+    },
+    {
+      "url": "https://www.pmi.com/sustainability",
+      "urlHash": "65f78eb0027e2404c036880c7a67d87cfa1603ae",
+      "uuid": "65f78eb0-08-93a82cacf393ae2b3872a02f1dbcdf901becd99e",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.pmi.com/sustainability",
+      "urlHash": "65f78eb0027e2404c036880c7a67d87cfa1603ae",
+      "uuid": "65f78eb0-09-940a7385f8bb3976a16867165ef8c75286013de1",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.pmi.com/sustainability",
+      "urlHash": "65f78eb0027e2404c036880c7a67d87cfa1603ae",
+      "uuid": "65f78eb0-11-3074f11d1772a03fb4117114b72255dcffed25fd",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.pmi.com/sustainability",
+      "urlHash": "65f78eb0027e2404c036880c7a67d87cfa1603ae",
+      "uuid": "65f78eb0-12-efe32aa2506eae39b7c01374cc82673eedc6c8bf",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.pmi.com/sustainability",
+      "urlHash": "65f78eb0027e2404c036880c7a67d87cfa1603ae",
+      "uuid": "65f78eb0-14-443792bef1c2284e746a7dd7658687b59f960015",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[3]/section[1]/div[2]"
+    },
+    {
+      "url": "https://www.pmi.com/sustainability",
+      "urlHash": "65f78eb0027e2404c036880c7a67d87cfa1603ae",
+      "uuid": "65f78eb0-15-77f783da28443e41785bb8609438ec07b524a03c",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[4]"
+    },
+    {
+      "url": "https://www.pmi.com/sustainability",
+      "urlHash": "65f78eb0027e2404c036880c7a67d87cfa1603ae",
+      "uuid": "65f78eb0-16-99da68a4f1e827be4c9f48be5a4db08d423cd7b1",
+      "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.pmi.com/sustainability",
+      "urlHash": "65f78eb0027e2404c036880c7a67d87cfa1603ae",
+      "uuid": "65f78eb0-17-ba6cef76c59ca8526e5c687393a0b2041f1beeeb",
+      "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.pmi.com/sustainability",
+      "urlHash": "65f78eb0027e2404c036880c7a67d87cfa1603ae",
+      "uuid": "65f78eb0-19-7eaef21f5a1de1a760eee9332ab034d2f408cf9f",
+      "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[3]/section[1]/div[2]"
+    },
+    {
+      "url": "https://www.pmi.com/sustainability",
+      "urlHash": "65f78eb0027e2404c036880c7a67d87cfa1603ae",
+      "uuid": "65f78eb0-20-35dd02fa3b326d169619fc69ce9abb2e705c67fd",
+      "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[4]"
+    },
+    {
+      "url": "https://www.pmi.com/sustainability",
+      "urlHash": "65f78eb0027e2404c036880c7a67d87cfa1603ae",
+      "uuid": "65f78eb0-21-25fec07935b3d708cfca82a3af89e34261c8bab5",
+      "xpath": "/html[1]/body[1]/main[1]/section[8]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.pmi.com/sustainability",
+      "urlHash": "65f78eb0027e2404c036880c7a67d87cfa1603ae",
+      "uuid": "65f78eb0-22-a560f95e68cc15a4c1f0e36fe70ed902addbf1e7",
+      "xpath": "/html[1]/body[1]/main[1]/section[8]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.pmi.com/sustainability",
+      "urlHash": "65f78eb0027e2404c036880c7a67d87cfa1603ae",
+      "uuid": "65f78eb0-24-d7dcc98adf402d28a3137cfae5f0cba7009b86b4",
+      "xpath": "/html[1]/body[1]/main[1]/section[8]/div[1]/div[4]"
+    },
+    {
+      "url": "https://www.pmi.com/sustainability",
+      "urlHash": "65f78eb0027e2404c036880c7a67d87cfa1603ae",
+      "uuid": "65f78eb0-26-7350375e026ef6e94069b3d4423aae1217ead3ca",
+      "xpath": "/html[1]/body[1]/main[1]/section[8]/div[1]/div[5]"
+    },
+    {
+      "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/ban-on-cigarette-sales-deepens-illicit-trade-problem-in-south-africa",
+      "urlHash": "66f7990447090446ee764fa58f3ca1cd16bb05ae",
+      "uuid": "66f79904-01-5a29a6c0dedef07e2c83c80490e123e7ffd9bbe1",
+      "xpath": "/html[1]/body[1]/main[1]/nav[1]"
+    },
+    {
+      "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/ambassador-alessandro-minuto-rizzo-on-combatting-illicit-trade-in-the-balkans",
+      "urlHash": "6c18d230e7b7c6f3b595dbf68e1da71843d74b5e",
+      "uuid": "6c18d230-01-5a29a6c0dedef07e2c83c80490e123e7ffd9bbe1",
+      "xpath": "/html[1]/body[1]/main[1]/nav[1]"
+    },
+    {
+      "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/anti-illicit-leaders-gather-in-greece-to-combat-global-black-market",
+      "urlHash": "730d65cfa10cb91701b9f4fd5a4233808289c4db",
+      "uuid": "730d65cf-01-5a29a6c0dedef07e2c83c80490e123e7ffd9bbe1",
+      "xpath": "/html[1]/body[1]/main[1]/nav[1]"
+    },
+    {
+      "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/driss-benomar-women-could-be-the-key-to-fighting-all-forms-of-extremism-in-africa",
+      "urlHash": "759e960af01d849b64413f2624d00ef00caeb269",
+      "uuid": "759e960a-01-5a29a6c0dedef07e2c83c80490e123e7ffd9bbe1",
+      "xpath": "/html[1]/body[1]/main[1]/nav[1]"
+    },
+    {
+      "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/from-pandemics-to-protection-discussing-wildlife-trade-and-covid-19-with-freeland",
+      "urlHash": "7d13333e1a38fdeea9609906ee044b674f9c0020",
+      "uuid": "7d13333e-01-5a29a6c0dedef07e2c83c80490e123e7ffd9bbe1",
+      "xpath": "/html[1]/body[1]/main[1]/nav[1]"
+    },
+    {
+      "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/combatting-global-criminal-enterprises-in-ftzs",
+      "urlHash": "a00988dd85bd6467414ec4ae662c170743c4d1b1",
+      "uuid": "a00988dd-01-5a29a6c0dedef07e2c83c80490e123e7ffd9bbe1",
+      "xpath": "/html[1]/body[1]/main[1]/nav[1]"
+    },
+    {
+      "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/can-tech-stem-the-rise-in-illicit-trade-an-interview-with-carlos-moreira",
+      "urlHash": "a1390641bb616c876253dc9e29262ca18c0ac839",
+      "uuid": "a1390641-01-5a29a6c0dedef07e2c83c80490e123e7ffd9bbe1",
+      "xpath": "/html[1]/body[1]/main[1]/nav[1]"
+    },
+    {
+      "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/coronavirus-worsens-usd-4.4-billion-global-counterfeit-medicine-problem",
+      "urlHash": "abf8dad078cec11f4758c62cd390f786332284ea",
+      "uuid": "abf8dad0-01-5a29a6c0dedef07e2c83c80490e123e7ffd9bbe1",
+      "xpath": "/html[1]/body[1]/main[1]/nav[1]"
+    },
+    {
+      "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/adult-smokers-deserve-access-to-smoke-free-products-even-during-tough-times",
+      "urlHash": "b5deb03ec3d4bb74183529d0439634fbd18c4956",
+      "uuid": "b5deb03e-01-5a29a6c0dedef07e2c83c80490e123e7ffd9bbe1",
+      "xpath": "/html[1]/body[1]/main[1]/nav[1]"
+    },
+    {
+      "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/adult-smokers-deserve-access-to-smoke-free-products-even-during-tough-times",
+      "urlHash": "b5deb03ec3d4bb74183529d0439634fbd18c4956",
+      "uuid": "b5deb03e-04-045e8db173ca22951665ee5910ab005c2698ce44",
+      "xpath": "/html[1]/body[1]/main[1]/section[3]"
+    },
+    {
+      "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/countering-the-counterfeiters-with-alibaba",
+      "urlHash": "b7b0da2ce8cc1365c7032fb9ab130e806ab40edb",
+      "uuid": "b7b0da2c-01-5a29a6c0dedef07e2c83c80490e123e7ffd9bbe1",
+      "xpath": "/html[1]/body[1]/main[1]/nav[1]"
+    },
+    {
+      "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/disrupting-illicit-trade-technology-innovation-is-needed-to-crack-a-global-issue",
+      "urlHash": "bb36c5da755f16d0064e45387893c5e90788a0c9",
+      "uuid": "bb36c5da-01-5a29a6c0dedef07e2c83c80490e123e7ffd9bbe1",
+      "xpath": "/html[1]/body[1]/main[1]/nav[1]"
+    },
+    {
+      "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/empty-cigarette-packs-left-on-streets-and-in-bins-across-the-world-can-shed-light-on-illicit-trade",
+      "urlHash": "c4009fd2a510d2f11cf1ac31d6fb10295f851502",
+      "uuid": "c4009fd2-01-5a29a6c0dedef07e2c83c80490e123e7ffd9bbe1",
+      "xpath": "/html[1]/body[1]/main[1]/nav[1]"
+    },
+    {
+      "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/dissecting-rogue-cigarettes",
+      "urlHash": "c502d1024b3118a17e46840639b01082095f760e",
+      "uuid": "c502d102-01-5a29a6c0dedef07e2c83c80490e123e7ffd9bbe1",
+      "xpath": "/html[1]/body[1]/main[1]/nav[1]"
+    },
+    {
+      "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/artificial-intelligence-to-tackle-trafficking-across-eu-borders",
+      "urlHash": "c76979f5b39501858dde69f48d576b6d5b1473b2",
+      "uuid": "c76979f5-01-5a29a6c0dedef07e2c83c80490e123e7ffd9bbe1",
+      "xpath": "/html[1]/body[1]/main[1]/nav[1]"
+    },
+    {
+      "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/colombia-navy-pulls-off-consecutive-seizures-of-more-than-79-million-illicit-cigarettes",
+      "urlHash": "cd0f90f0af50cab54aa3f296f04e1e976ed701f8",
+      "uuid": "cd0f90f0-01-5a29a6c0dedef07e2c83c80490e123e7ffd9bbe1",
+      "xpath": "/html[1]/body[1]/main[1]/nav[1]"
+    },
+    {
+      "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/ensuring-the-integrity-of-our-supply-chain-is-paramount-to-pmi-achieving-its-smoke-free-vision",
+      "urlHash": "d057481340b1d3b91affd9b72a8cd7fdb2a72bef",
+      "uuid": "d0574813-01-5a29a6c0dedef07e2c83c80490e123e7ffd9bbe1",
+      "xpath": "/html[1]/body[1]/main[1]/nav[1]"
+    },
+    {
+      "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/ensuring-the-integrity-of-our-supply-chain-is-paramount-to-pmi-achieving-its-smoke-free-vision",
+      "urlHash": "d057481340b1d3b91affd9b72a8cd7fdb2a72bef",
+      "uuid": "d0574813-04-045e8db173ca22951665ee5910ab005c2698ce44",
+      "xpath": "/html[1]/body[1]/main[1]/section[3]"
+    },
+    {
+      "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/concerns-grow-as-illicit-wildlife-trade-spikes-during-covid-19-pandemic",
+      "urlHash": "e6048a6a88f94a1e554607b830ff230d9a6f95e3",
+      "uuid": "e6048a6a-01-5a29a6c0dedef07e2c83c80490e123e7ffd9bbe1",
+      "xpath": "/html[1]/body[1]/main[1]/nav[1]"
+    }
+  ]
+}
