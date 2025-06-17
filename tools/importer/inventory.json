@@ -101,6 +101,12 @@
           "xpath": "/html[1]/body[1]/div[1]"
         },
         {
+          "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+          "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+          "uuid": "6961191a-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
           "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/ambassador-alessandro-minuto-rizzo-on-combatting-illicit-trade-in-the-balkans",
           "urlHash": "6c18d230e7b7c6f3b595dbf68e1da71843d74b5e",
           "uuid": "6c18d230-00-6e70765a003047818ea5700b557b8d01b43078df",
@@ -123,6 +129,12 @@
           "urlHash": "7d13333e1a38fdeea9609906ee044b674f9c0020",
           "uuid": "7d13333e-00-6e70765a003047818ea5700b557b8d01b43078df",
           "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-progress",
+          "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+          "uuid": "885ac84d-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
         },
         {
           "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/combatting-global-criminal-enterprises-in-ftzs",
@@ -153,6 +165,12 @@
           "urlHash": "b7b0da2ce8cc1365c7032fb9ab130e806ab40edb",
           "uuid": "b7b0da2c-00-6e70765a003047818ea5700b557b8d01b43078df",
           "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business",
+          "urlHash": "b8da384a1e85fc44ba947b90c31d0159443af1e2",
+          "uuid": "b8da384a-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
         },
         {
           "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/disrupting-illicit-trade-technology-innovation-is-needed-to-crack-a-global-issue",
@@ -195,6 +213,12 @@
           "urlHash": "e6048a6a88f94a1e554607b830ff230d9a6f95e3",
           "uuid": "e6048a6a-00-6e70765a003047818ea5700b557b8d01b43078df",
           "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-science",
+          "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+          "uuid": "f5fab645-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
         }
       ]
     },
@@ -299,6 +323,12 @@
           "xpath": "/html[1]/body[1]/main[1]/footer[1]"
         },
         {
+          "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+          "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+          "uuid": "6961191a-56-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
           "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/ambassador-alessandro-minuto-rizzo-on-combatting-illicit-trade-in-the-balkans",
           "urlHash": "6c18d230e7b7c6f3b595dbf68e1da71843d74b5e",
           "uuid": "6c18d230-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
@@ -321,6 +351,12 @@
           "urlHash": "7d13333e1a38fdeea9609906ee044b674f9c0020",
           "uuid": "7d13333e-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
           "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-progress",
+          "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+          "uuid": "885ac84d-219-eeed442f58b0061bd4bd27b22091e21bcf3424cb",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]/div[1]"
         },
         {
           "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/combatting-global-criminal-enterprises-in-ftzs",
@@ -350,6 +386,12 @@
           "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/countering-the-counterfeiters-with-alibaba",
           "urlHash": "b7b0da2ce8cc1365c7032fb9ab130e806ab40edb",
           "uuid": "b7b0da2c-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business",
+          "urlHash": "b8da384a1e85fc44ba947b90c31d0159443af1e2",
+          "uuid": "b8da384a-15-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
           "xpath": "/html[1]/body[1]/main[1]/footer[1]"
         },
         {
@@ -393,17 +435,218 @@
           "urlHash": "e6048a6a88f94a1e554607b830ff230d9a6f95e3",
           "uuid": "e6048a6a-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
           "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-science",
+          "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+          "uuid": "f5fab645-111-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
         }
       ]
     }
   ],
   "blocks": [
     {
-      "name": "header",
+      "name": "Hero",
       "cluster": 1,
+      "source": "Hero",
+      "target": "Hero (hero1)",
+      "key": "hero1",
+      "instances": [
+        {
+          "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+          "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+          "uuid": "6961191a-08-5c12b35f92ff297ade1e10bf8881d28a91512a08",
+          "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/section[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-science",
+          "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+          "uuid": "f5fab645-08-75804b1c48cfc77cffacdc953d62fbc87d59859d",
+          "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/section[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-science",
+          "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+          "uuid": "f5fab645-108-807529f3ac816f5bb999fa4a8f7da9ce9ddd058c",
+          "xpath": "/html[1]/body[1]/main[1]/section[8]/div[1]/section[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 2,
+      "source": "Columns",
+      "target": "Columns (columns2)",
+      "key": "columns2",
+      "instances": [
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/fighting-illicit-trade-in-latin-america-turning-the-tide-on-illegal-tobacco",
+          "urlHash": "5313c469df6ea6f307a85086fdec2f2b58612a08",
+          "uuid": "5313c469-03-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/disrupting-illicit-trade-technology-innovation-is-needed-to-crack-a-global-issue",
+          "urlHash": "bb36c5da755f16d0064e45387893c5e90788a0c9",
+          "uuid": "bb36c5da-03-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 3,
+      "source": "Accordion",
+      "target": "Accordion (accordion3)",
+      "key": "accordion3",
+      "instances": [
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/alibaba-in-focus-effective-collaboration-is-the-best-weapon-against-illicit-trade",
+          "urlHash": "043a24244d369cc60a223c4be1afbd663e392930",
+          "uuid": "043a2424-03-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/29-raids-in-five-countries-close-down-illegal-cigarette-factories-across-europe",
+          "urlHash": "14d92bec2e28bdd2711c22f5d3c872d3b62b87b4",
+          "uuid": "14d92bec-03-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/free-trade-zones-need-better-regulation-to-fight-crime",
+          "urlHash": "5405dace327f46da65d70fd97a4d45a18edb7f0b",
+          "uuid": "5405dace-03-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/counterfeit-cigarettes-on-the-rise-within-eu-borders",
+          "urlHash": "5d418cdfa36a10872e00f2f283bc95d2f1685666",
+          "uuid": "5d418cdf-03-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/ambassador-alessandro-minuto-rizzo-on-combatting-illicit-trade-in-the-balkans",
+          "urlHash": "6c18d230e7b7c6f3b595dbf68e1da71843d74b5e",
+          "uuid": "6c18d230-03-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/driss-benomar-women-could-be-the-key-to-fighting-all-forms-of-extremism-in-africa",
+          "urlHash": "759e960af01d849b64413f2624d00ef00caeb269",
+          "uuid": "759e960a-03-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/countering-the-counterfeiters-with-alibaba",
+          "urlHash": "b7b0da2ce8cc1365c7032fb9ab130e806ab40edb",
+          "uuid": "b7b0da2c-03-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/artificial-intelligence-to-tackle-trafficking-across-eu-borders",
+          "urlHash": "c76979f5b39501858dde69f48d576b6d5b1473b2",
+          "uuid": "c76979f5-03-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/colombia-navy-pulls-off-consecutive-seizures-of-more-than-79-million-illicit-cigarettes",
+          "urlHash": "cd0f90f0af50cab54aa3f296f04e1e976ed701f8",
+          "uuid": "cd0f90f0-03-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+        }
+      ]
+    },
+    {
+      "name": "Embed (video)",
+      "cluster": 4,
+      "source": "Embed",
+      "target": "Embed (embedVideo4)",
+      "key": "embedVideo4",
+      "instances": [
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/as-adult-smokers-in-france-turn-to-counterfeits-we-must-focus-on-raising-consumer-awareness",
+          "urlHash": "3569ee3964bdf41da9fd76af59eb6d0adba56da3",
+          "uuid": "3569ee39-03-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/can-tech-stem-the-rise-in-illicit-trade-an-interview-with-carlos-moreira",
+          "urlHash": "a1390641bb616c876253dc9e29262ca18c0ac839",
+          "uuid": "a1390641-03-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/empty-cigarette-packs-left-on-streets-and-in-bins-across-the-world-can-shed-light-on-illicit-trade",
+          "urlHash": "c4009fd2a510d2f11cf1ac31d6fb10295f851502",
+          "uuid": "c4009fd2-03-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 5,
+      "instances": [
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/follow-the-money-juhani-grossmann-on-using-financial-crime-expertise-to-tackle-illegal-trade",
+          "urlHash": "01dce9d06bd8e3166d2cccde49b2a5782b8bd700",
+          "uuid": "01dce9d0-03-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/balkan-smugg-report-shows-there-is-no-room-for-complacency-over-illicit-trade-in-the-region",
+          "urlHash": "63c8bb79b0a6289102cbf7928d208b397df937d1",
+          "uuid": "63c8bb79-03-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/coronavirus-worsens-usd-4.4-billion-global-counterfeit-medicine-problem",
+          "urlHash": "abf8dad078cec11f4758c62cd390f786332284ea",
+          "uuid": "abf8dad0-03-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/dissecting-rogue-cigarettes",
+          "urlHash": "c502d1024b3118a17e46840639b01082095f760e",
+          "uuid": "c502d102-03-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+        }
+      ]
+    },
+    {
+      "name": "Embed (video)",
+      "cluster": 6,
+      "source": "Embed",
+      "target": "Embed (embedVideo6)",
+      "key": "embedVideo6",
+      "instances": [
+        {
+          "url": "https://www.pmi.com/our-progress",
+          "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+          "uuid": "885ac84d-215-a79e8ebf059989569063a672e654447dad8e2807",
+          "xpath": "/html[1]/body[1]/main[1]/section[6]"
+        },
+        {
+          "url": "https://www.pmi.com/our-science",
+          "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+          "uuid": "f5fab645-06-adb0fa4baf067328327dea52c0312f0d5bf0b7f3",
+          "xpath": "/html[1]/body[1]/main[1]/section[4]"
+        },
+        {
+          "url": "https://www.pmi.com/our-science",
+          "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+          "uuid": "f5fab645-106-40bada8a5bf6112ec63df39dfa88b0b7ab0d35e1",
+          "xpath": "/html[1]/body[1]/main[1]/section[7]"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 7,
       "source": "Header",
-      "target": "Header (header1)",
-      "key": "header1",
+      "target": "Header (header7)",
+      "key": "header7",
       "instances": [
         {
           "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/follow-the-money-juhani-grossmann-on-using-financial-crime-expertise-to-tackle-illegal-trade",
@@ -502,6 +745,12 @@
           "xpath": "/html[1]/body[1]/div[1]"
         },
         {
+          "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+          "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+          "uuid": "6961191a-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
           "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/ambassador-alessandro-minuto-rizzo-on-combatting-illicit-trade-in-the-balkans",
           "urlHash": "6c18d230e7b7c6f3b595dbf68e1da71843d74b5e",
           "uuid": "6c18d230-00-6e70765a003047818ea5700b557b8d01b43078df",
@@ -524,6 +773,12 @@
           "urlHash": "7d13333e1a38fdeea9609906ee044b674f9c0020",
           "uuid": "7d13333e-00-6e70765a003047818ea5700b557b8d01b43078df",
           "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-progress",
+          "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+          "uuid": "885ac84d-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
         },
         {
           "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/combatting-global-criminal-enterprises-in-ftzs",
@@ -554,6 +809,12 @@
           "urlHash": "b7b0da2ce8cc1365c7032fb9ab130e806ab40edb",
           "uuid": "b7b0da2c-00-6e70765a003047818ea5700b557b8d01b43078df",
           "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business",
+          "urlHash": "b8da384a1e85fc44ba947b90c31d0159443af1e2",
+          "uuid": "b8da384a-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
         },
         {
           "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/disrupting-illicit-trade-technology-innovation-is-needed-to-crack-a-global-issue",
@@ -596,129 +857,21 @@
           "urlHash": "e6048a6a88f94a1e554607b830ff230d9a6f95e3",
           "uuid": "e6048a6a-00-6e70765a003047818ea5700b557b8d01b43078df",
           "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-science",
+          "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+          "uuid": "f5fab645-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
         }
       ]
     },
     {
-      "name": "unknown",
-      "cluster": 2,
-      "instances": [
-        {
-          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/follow-the-money-juhani-grossmann-on-using-financial-crime-expertise-to-tackle-illegal-trade",
-          "urlHash": "01dce9d06bd8e3166d2cccde49b2a5782b8bd700",
-          "uuid": "01dce9d0-03-28c3b28214a2203a195aece11b125e34d881257d",
-          "xpath": "/html[1]/body[1]/main[1]/section[2]"
-        },
-        {
-          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/balkan-smugg-report-shows-there-is-no-room-for-complacency-over-illicit-trade-in-the-region",
-          "urlHash": "63c8bb79b0a6289102cbf7928d208b397df937d1",
-          "uuid": "63c8bb79-03-28c3b28214a2203a195aece11b125e34d881257d",
-          "xpath": "/html[1]/body[1]/main[1]/section[2]"
-        },
-        {
-          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/coronavirus-worsens-usd-4.4-billion-global-counterfeit-medicine-problem",
-          "urlHash": "abf8dad078cec11f4758c62cd390f786332284ea",
-          "uuid": "abf8dad0-03-28c3b28214a2203a195aece11b125e34d881257d",
-          "xpath": "/html[1]/body[1]/main[1]/section[2]"
-        },
-        {
-          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/dissecting-rogue-cigarettes",
-          "urlHash": "c502d1024b3118a17e46840639b01082095f760e",
-          "uuid": "c502d102-03-28c3b28214a2203a195aece11b125e34d881257d",
-          "xpath": "/html[1]/body[1]/main[1]/section[2]"
-        }
-      ]
-    },
-    {
-      "name": "Search",
-      "cluster": 3,
-      "source": "Search",
-      "target": "Search (search3)",
-      "key": "search3",
-      "instances": [
-        {
-          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/alibaba-in-focus-effective-collaboration-is-the-best-weapon-against-illicit-trade",
-          "urlHash": "043a24244d369cc60a223c4be1afbd663e392930",
-          "uuid": "043a2424-03-28c3b28214a2203a195aece11b125e34d881257d",
-          "xpath": "/html[1]/body[1]/main[1]/section[2]"
-        },
-        {
-          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/29-raids-in-five-countries-close-down-illegal-cigarette-factories-across-europe",
-          "urlHash": "14d92bec2e28bdd2711c22f5d3c872d3b62b87b4",
-          "uuid": "14d92bec-03-28c3b28214a2203a195aece11b125e34d881257d",
-          "xpath": "/html[1]/body[1]/main[1]/section[2]"
-        },
-        {
-          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/free-trade-zones-need-better-regulation-to-fight-crime",
-          "urlHash": "5405dace327f46da65d70fd97a4d45a18edb7f0b",
-          "uuid": "5405dace-03-28c3b28214a2203a195aece11b125e34d881257d",
-          "xpath": "/html[1]/body[1]/main[1]/section[2]"
-        },
-        {
-          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/counterfeit-cigarettes-on-the-rise-within-eu-borders",
-          "urlHash": "5d418cdfa36a10872e00f2f283bc95d2f1685666",
-          "uuid": "5d418cdf-03-28c3b28214a2203a195aece11b125e34d881257d",
-          "xpath": "/html[1]/body[1]/main[1]/section[2]"
-        },
-        {
-          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/ambassador-alessandro-minuto-rizzo-on-combatting-illicit-trade-in-the-balkans",
-          "urlHash": "6c18d230e7b7c6f3b595dbf68e1da71843d74b5e",
-          "uuid": "6c18d230-03-28c3b28214a2203a195aece11b125e34d881257d",
-          "xpath": "/html[1]/body[1]/main[1]/section[2]"
-        },
-        {
-          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/driss-benomar-women-could-be-the-key-to-fighting-all-forms-of-extremism-in-africa",
-          "urlHash": "759e960af01d849b64413f2624d00ef00caeb269",
-          "uuid": "759e960a-03-28c3b28214a2203a195aece11b125e34d881257d",
-          "xpath": "/html[1]/body[1]/main[1]/section[2]"
-        },
-        {
-          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/countering-the-counterfeiters-with-alibaba",
-          "urlHash": "b7b0da2ce8cc1365c7032fb9ab130e806ab40edb",
-          "uuid": "b7b0da2c-03-28c3b28214a2203a195aece11b125e34d881257d",
-          "xpath": "/html[1]/body[1]/main[1]/section[2]"
-        },
-        {
-          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/artificial-intelligence-to-tackle-trafficking-across-eu-borders",
-          "urlHash": "c76979f5b39501858dde69f48d576b6d5b1473b2",
-          "uuid": "c76979f5-03-28c3b28214a2203a195aece11b125e34d881257d",
-          "xpath": "/html[1]/body[1]/main[1]/section[2]"
-        },
-        {
-          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/colombia-navy-pulls-off-consecutive-seizures-of-more-than-79-million-illicit-cigarettes",
-          "urlHash": "cd0f90f0af50cab54aa3f296f04e1e976ed701f8",
-          "uuid": "cd0f90f0-03-28c3b28214a2203a195aece11b125e34d881257d",
-          "xpath": "/html[1]/body[1]/main[1]/section[2]"
-        }
-      ]
-    },
-    {
-      "name": "Search",
-      "cluster": 4,
-      "source": "Search",
-      "target": "Search (search4)",
-      "key": "search4",
-      "instances": [
-        {
-          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/fighting-illicit-trade-in-latin-america-turning-the-tide-on-illegal-tobacco",
-          "urlHash": "5313c469df6ea6f307a85086fdec2f2b58612a08",
-          "uuid": "5313c469-03-28c3b28214a2203a195aece11b125e34d881257d",
-          "xpath": "/html[1]/body[1]/main[1]/section[2]"
-        },
-        {
-          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/disrupting-illicit-trade-technology-innovation-is-needed-to-crack-a-global-issue",
-          "urlHash": "bb36c5da755f16d0064e45387893c5e90788a0c9",
-          "uuid": "bb36c5da-03-28c3b28214a2203a195aece11b125e34d881257d",
-          "xpath": "/html[1]/body[1]/main[1]/section[2]"
-        }
-      ]
-    },
-    {
-      "name": "Cards",
-      "cluster": 5,
-      "source": "Cards",
-      "target": "Cards (cards5)",
-      "key": "cards5",
+      "name": "Embed (video)",
+      "cluster": 8,
+      "source": "Embed",
+      "target": "Embed (embedVideo8)",
+      "key": "embedVideo8",
       "instances": [
         {
           "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/finding-the-silver-lining-how-covid-19-led-to-closer-collaboration-in-south-africa-s-fight-against-illicit-trade",
@@ -735,89 +888,11 @@
       ]
     },
     {
-      "name": "Embed (video)",
-      "cluster": 6,
-      "source": "Embed",
-      "target": "Embed (embedVideo6)",
-      "key": "embedVideo6",
-      "instances": [
-        {
-          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/anti-illicit-leaders-gather-in-greece-to-combat-global-black-market",
-          "urlHash": "730d65cfa10cb91701b9f4fd5a4233808289c4db",
-          "uuid": "730d65cf-03-28c3b28214a2203a195aece11b125e34d881257d",
-          "xpath": "/html[1]/body[1]/main[1]/section[2]"
-        },
-        {
-          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/combatting-global-criminal-enterprises-in-ftzs",
-          "urlHash": "a00988dd85bd6467414ec4ae662c170743c4d1b1",
-          "uuid": "a00988dd-03-28c3b28214a2203a195aece11b125e34d881257d",
-          "xpath": "/html[1]/body[1]/main[1]/section[2]"
-        }
-      ]
-    },
-    {
       "name": "Columns",
-      "cluster": 7,
-      "source": "Columns",
-      "target": "Columns (columns7)",
-      "key": "columns7",
-      "instances": [
-        {
-          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/as-adult-smokers-in-france-turn-to-counterfeits-we-must-focus-on-raising-consumer-awareness",
-          "urlHash": "3569ee3964bdf41da9fd76af59eb6d0adba56da3",
-          "uuid": "3569ee39-03-28c3b28214a2203a195aece11b125e34d881257d",
-          "xpath": "/html[1]/body[1]/main[1]/section[2]"
-        },
-        {
-          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/can-tech-stem-the-rise-in-illicit-trade-an-interview-with-carlos-moreira",
-          "urlHash": "a1390641bb616c876253dc9e29262ca18c0ac839",
-          "uuid": "a1390641-03-28c3b28214a2203a195aece11b125e34d881257d",
-          "xpath": "/html[1]/body[1]/main[1]/section[2]"
-        },
-        {
-          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/empty-cigarette-packs-left-on-streets-and-in-bins-across-the-world-can-shed-light-on-illicit-trade",
-          "urlHash": "c4009fd2a510d2f11cf1ac31d6fb10295f851502",
-          "uuid": "c4009fd2-03-28c3b28214a2203a195aece11b125e34d881257d",
-          "xpath": "/html[1]/body[1]/main[1]/section[2]"
-        }
-      ]
-    },
-    {
-      "name": "Cards",
-      "cluster": 8,
-      "source": "Cards",
-      "target": "Cards (cards8)",
-      "key": "cards8",
-      "instances": [
-        {
-          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/deutschland-entwickelt-sich-zum-zweitgr%C3%B6%C3%9Ften-markt-f%C3%BCr-illegalen-tabak-in-der-eu",
-          "urlHash": "2055b429b2011d3fde7e962e490492f9efaf238d",
-          "uuid": "2055b429-06-70e982f8f3cb22ae42ed3582427d1cf6771b2cb3",
-          "xpath": "/html[1]/body[1]/main[1]/section[3]/div[2]/section[2]/div[1]"
-        }
-      ]
-    },
-    {
-      "name": "Embed (video)",
       "cluster": 9,
-      "source": "Embed",
-      "target": "Embed (embedVideo9)",
-      "key": "embedVideo9",
-      "instances": [
-        {
-          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/free-trade-zones-how-to-combat-illicit-trade-and-counterfeiting",
-          "urlHash": "39abb71a26d3426bdb32f8e37fdbaa209abb4081",
-          "uuid": "39abb71a-03-28c3b28214a2203a195aece11b125e34d881257d",
-          "xpath": "/html[1]/body[1]/main[1]/section[2]"
-        }
-      ]
-    },
-    {
-      "name": "Columns",
-      "cluster": 10,
       "source": "Columns",
-      "target": "Columns (columns10)",
-      "key": "columns10",
+      "target": "Columns (columns9)",
+      "key": "columns9",
       "instances": [
         {
           "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/follow-the-money-juhani-grossmann-on-using-financial-crime-expertise-to-tackle-illegal-trade",
@@ -916,6 +991,12 @@
           "xpath": "/html[1]/body[1]/main[1]/footer[1]"
         },
         {
+          "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+          "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+          "uuid": "6961191a-56-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
           "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/ambassador-alessandro-minuto-rizzo-on-combatting-illicit-trade-in-the-balkans",
           "urlHash": "6c18d230e7b7c6f3b595dbf68e1da71843d74b5e",
           "uuid": "6c18d230-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
@@ -938,6 +1019,12 @@
           "urlHash": "7d13333e1a38fdeea9609906ee044b674f9c0020",
           "uuid": "7d13333e-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
           "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-progress",
+          "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+          "uuid": "885ac84d-219-eeed442f58b0061bd4bd27b22091e21bcf3424cb",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]/div[1]"
         },
         {
           "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/combatting-global-criminal-enterprises-in-ftzs",
@@ -967,6 +1054,12 @@
           "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/countering-the-counterfeiters-with-alibaba",
           "urlHash": "b7b0da2ce8cc1365c7032fb9ab130e806ab40edb",
           "uuid": "b7b0da2c-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business",
+          "urlHash": "b8da384a1e85fc44ba947b90c31d0159443af1e2",
+          "uuid": "b8da384a-15-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
           "xpath": "/html[1]/body[1]/main[1]/footer[1]"
         },
         {
@@ -1010,15 +1103,33 @@
           "urlHash": "e6048a6a88f94a1e554607b830ff230d9a6f95e3",
           "uuid": "e6048a6a-04-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
           "xpath": "/html[1]/body[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-science",
+          "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+          "uuid": "f5fab645-111-376ce0d2c9226ed1f91067a63ab9f4e0063d056f",
+          "xpath": "/html[1]/body[1]/main[1]/footer[1]"
         }
       ]
     },
     {
-      "name": "Columns",
+      "name": "unknown",
+      "cluster": 10,
+      "instances": [
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/award-winning-anti-fraudulent-goods-campaign-leverages-partnerships-to-combat-illicit-trade",
+          "urlHash": "3df94a1542c5f2014490de73e008760f8aa28950",
+          "uuid": "3df94a15-03-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
       "cluster": 11,
-      "source": "Columns",
-      "target": "Columns (columns11)",
-      "key": "columns11",
+      "source": "Hero",
+      "target": "Hero (hero11)",
+      "key": "hero11",
       "instances": [
         {
           "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/follow-the-money-juhani-grossmann-on-using-financial-crime-expertise-to-tackle-illegal-trade",
@@ -1209,8 +1320,83 @@
       ]
     },
     {
-      "name": "unknown",
+      "name": "Embed (video)",
       "cluster": 12,
+      "source": "Embed",
+      "target": "Embed (embedVideo12)",
+      "key": "embedVideo12",
+      "instances": [
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/free-trade-zones-how-to-combat-illicit-trade-and-counterfeiting",
+          "urlHash": "39abb71a26d3426bdb32f8e37fdbaa209abb4081",
+          "uuid": "39abb71a-03-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 13,
+      "source": "Columns",
+      "target": "Columns (columns13)",
+      "key": "columns13",
+      "instances": [
+        {
+          "url": "https://www.pmi.com/sustainability",
+          "urlHash": "65f78eb0027e2404c036880c7a67d87cfa1603ae",
+          "uuid": "65f78eb0-10-75804b1c48cfc77cffacdc953d62fbc87d59859d",
+          "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/section[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 14,
+      "instances": [
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/concerns-grow-as-illicit-wildlife-trade-spikes-during-covid-19-pandemic",
+          "urlHash": "e6048a6a88f94a1e554607b830ff230d9a6f95e3",
+          "uuid": "e6048a6a-03-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 15,
+      "source": "Columns",
+      "target": "Columns (columns15)",
+      "key": "columns15",
+      "instances": [
+        {
+          "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+          "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+          "uuid": "6961191a-54-ecfa4074128bb52fd48e17b702a44ee374295216",
+          "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/section[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business",
+          "urlHash": "b8da384a1e85fc44ba947b90c31d0159443af1e2",
+          "uuid": "b8da384a-07-5c12b35f92ff297ade1e10bf8881d28a91512a08",
+          "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/section[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business",
+          "urlHash": "b8da384a1e85fc44ba947b90c31d0159443af1e2",
+          "uuid": "b8da384a-12-ecfa4074128bb52fd48e17b702a44ee374295216",
+          "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/section[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business",
+          "urlHash": "b8da384a1e85fc44ba947b90c31d0159443af1e2",
+          "uuid": "b8da384a-14-040d234f22335b26385e1ec2ea609be6918fc2a1",
+          "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/section[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 16,
       "instances": [
         {
           "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/effective-policymaking-and-law-enforcement-action-keys-to-making-cigarettes-a-thing-of-the-past",
@@ -1221,26 +1407,32 @@
       ]
     },
     {
-      "name": "Cards (no images)",
-      "cluster": 13,
-      "source": "Cards",
-      "target": "Cards (cardsNoImages13)",
-      "key": "cardsNoImages13",
+      "name": "Embed (video)",
+      "cluster": 17,
+      "source": "Embed",
+      "target": "Embed (embedVideo17)",
+      "key": "embedVideo17",
       "instances": [
         {
-          "url": "https://www.pmi.com/sustainability",
-          "urlHash": "65f78eb0027e2404c036880c7a67d87cfa1603ae",
-          "uuid": "65f78eb0-23-807529f3ac816f5bb999fa4a8f7da9ce9ddd058c",
-          "xpath": "/html[1]/body[1]/main[1]/section[8]/div[1]/section[1]"
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/anti-illicit-leaders-gather-in-greece-to-combat-global-black-market",
+          "urlHash": "730d65cfa10cb91701b9f4fd5a4233808289c4db",
+          "uuid": "730d65cf-03-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/combatting-global-criminal-enterprises-in-ftzs",
+          "urlHash": "a00988dd85bd6467414ec4ae662c170743c4d1b1",
+          "uuid": "a00988dd-03-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
         }
       ]
     },
     {
       "name": "Accordion",
-      "cluster": 14,
+      "cluster": 18,
       "source": "Accordion",
-      "target": "Accordion (accordion14)",
-      "key": "accordion14",
+      "target": "Accordion (accordion18)",
+      "key": "accordion18",
       "instances": [
         {
           "url": "https://www.pmi.com/sustainability",
@@ -1251,11 +1443,8 @@
       ]
     },
     {
-      "name": "Cards (no images)",
-      "cluster": 15,
-      "source": "Cards",
-      "target": "Cards (cardsNoImages15)",
-      "key": "cardsNoImages15",
+      "name": "unknown",
+      "cluster": 19,
       "instances": [
         {
           "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/adult-smokers-deserve-access-to-smoke-free-products-even-during-tough-times",
@@ -1272,83 +1461,32 @@
       ]
     },
     {
-      "name": "unknown",
-      "cluster": 16,
-      "instances": [
-        {
-          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/award-winning-anti-fraudulent-goods-campaign-leverages-partnerships-to-combat-illicit-trade",
-          "urlHash": "3df94a1542c5f2014490de73e008760f8aa28950",
-          "uuid": "3df94a15-03-28c3b28214a2203a195aece11b125e34d881257d",
-          "xpath": "/html[1]/body[1]/main[1]/section[2]"
-        }
-      ]
-    },
-    {
-      "name": "unknown",
-      "cluster": 17,
-      "instances": [
-        {
-          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/deutschland-entwickelt-sich-zum-zweitgr%C3%B6%C3%9Ften-markt-f%C3%BCr-illegalen-tabak-in-der-eu",
-          "urlHash": "2055b429b2011d3fde7e962e490492f9efaf238d",
-          "uuid": "2055b429-02-28c3b28214a2203a195aece11b125e34d881257d",
-          "xpath": "/html[1]/body[1]/main[1]/section[2]"
-        }
-      ]
-    },
-    {
-      "name": "Cards",
-      "cluster": 18,
-      "source": "Cards",
-      "target": "Cards (cards18)",
-      "key": "cards18",
-      "instances": [
-        {
-          "url": "https://www.pmi.com/sustainability",
-          "urlHash": "65f78eb0027e2404c036880c7a67d87cfa1603ae",
-          "uuid": "65f78eb0-10-75804b1c48cfc77cffacdc953d62fbc87d59859d",
-          "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/section[1]"
-        }
-      ]
-    },
-    {
-      "name": "Embed (video)",
-      "cluster": 19,
-      "source": "Embed",
-      "target": "Embed (embedVideo19)",
-      "key": "embedVideo19",
-      "instances": [
-        {
-          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/collaboration-is-key-to-fighting-illicit-trade-at-sea",
-          "urlHash": "48a5f44676e706085beca74c0a53ab2d236d91d4",
-          "uuid": "48a5f446-03-28c3b28214a2203a195aece11b125e34d881257d",
-          "xpath": "/html[1]/body[1]/main[1]/section[2]"
-        }
-      ]
-    },
-    {
-      "name": "Cards",
+      "name": "Carousel",
       "cluster": 20,
-      "source": "Cards",
-      "target": "Cards (cards20)",
-      "key": "cards20",
+      "source": "Carousel",
+      "target": "Carousel (carousel20)",
+      "key": "carousel20",
       "instances": [
         {
-          "url": "https://www.pmi.com/sustainability",
-          "urlHash": "65f78eb0027e2404c036880c7a67d87cfa1603ae",
-          "uuid": "65f78eb0-18-0619da5739e9aa312a8a2e4b149cef354483cffd",
-          "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[3]/section[1]/div[1]"
+          "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+          "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+          "uuid": "6961191a-05-498bdab23015b73fa573bef47f3d27b2563f27cf",
+          "xpath": "/html[1]/body[1]/main[1]/section[3]/div[1]/section[1]/div[2]"
         }
       ]
     },
     {
-      "name": "unknown",
+      "name": "Cards",
       "cluster": 21,
+      "source": "Cards",
+      "target": "Cards (cards21)",
+      "key": "cards21",
       "instances": [
         {
-          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/concerns-grow-as-illicit-wildlife-trade-spikes-during-covid-19-pandemic",
-          "urlHash": "e6048a6a88f94a1e554607b830ff230d9a6f95e3",
-          "uuid": "e6048a6a-03-28c3b28214a2203a195aece11b125e34d881257d",
-          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+          "url": "https://www.pmi.com/sustainability",
+          "urlHash": "65f78eb0027e2404c036880c7a67d87cfa1603ae",
+          "uuid": "65f78eb0-07-5c12b35f92ff297ade1e10bf8881d28a91512a08",
+          "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/section[1]"
         }
       ]
     },
@@ -1362,17 +1500,155 @@
         {
           "url": "https://www.pmi.com/sustainability",
           "urlHash": "65f78eb0027e2404c036880c7a67d87cfa1603ae",
+          "uuid": "65f78eb0-18-0619da5739e9aa312a8a2e4b149cef354483cffd",
+          "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[3]/section[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 23,
+      "source": "Columns",
+      "target": "Columns (columns23)",
+      "key": "columns23",
+      "instances": [
+        {
+          "url": "https://www.pmi.com/our-progress",
+          "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+          "uuid": "885ac84d-04-bb0b594c9616c4d68e4e73b31a6b3c4fa0cb855e",
+          "xpath": "/html[1]/body[1]/main[1]/section[3]/div[1]/section[1]"
+        },
+        {
+          "url": "https://www.pmi.com/our-business",
+          "urlHash": "b8da384a1e85fc44ba947b90c31d0159443af1e2",
+          "uuid": "b8da384a-04-bb0b594c9616c4d68e4e73b31a6b3c4fa0cb855e",
+          "xpath": "/html[1]/body[1]/main[1]/section[3]/div[1]/section[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 24,
+      "instances": [
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/deutschland-entwickelt-sich-zum-zweitgr%C3%B6%C3%9Ften-markt-f%C3%BCr-illegalen-tabak-in-der-eu",
+          "urlHash": "2055b429b2011d3fde7e962e490492f9efaf238d",
+          "uuid": "2055b429-02-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 25,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages25)",
+      "key": "cardsNoImages25",
+      "instances": [
+        {
+          "url": "https://www.pmi.com/our-science",
+          "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+          "uuid": "f5fab645-110-add20c3faea27ca9d1b7ba46b56d78328ad17768",
+          "xpath": "/html[1]/body[1]/main[1]/section[9]/div[1]/section[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 26,
+      "source": "Hero",
+      "target": "Hero (hero26)",
+      "key": "hero26",
+      "instances": [
+        {
+          "url": "https://www.pmi.com/our-progress",
+          "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+          "uuid": "885ac84d-218-c39f2c9617d15515c26101a8d14ab349822a56dd",
+          "xpath": "/html[1]/body[1]/main[1]/section[8]/div[1]/div[1]/div[1]/section[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 27,
+      "source": "Columns",
+      "target": "Columns (columns27)",
+      "key": "columns27",
+      "instances": [
+        {
+          "url": "https://www.pmi.com/our-science",
+          "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+          "uuid": "f5fab645-04-03f4af95f799e553314755bdf4beebd63fa62dd8",
+          "xpath": "/html[1]/body[1]/main[1]/section[3]/div[1]/div[1]/div[1]/section[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 28,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages28)",
+      "key": "cardsNoImages28",
+      "instances": [
+        {
+          "url": "https://www.pmi.com/sustainability",
+          "urlHash": "65f78eb0027e2404c036880c7a67d87cfa1603ae",
+          "uuid": "65f78eb0-25-a203bd112b47743116f0775a5208090e2498d5a1",
+          "xpath": "/html[1]/body[1]/main[1]/section[8]/div[1]/section[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 29,
+      "source": "Cards",
+      "target": "Cards (cards29)",
+      "key": "cards29",
+      "instances": [
+        {
+          "url": "https://www.pmi.com/sustainability",
+          "urlHash": "65f78eb0027e2404c036880c7a67d87cfa1603ae",
           "uuid": "65f78eb0-13-5564b3984575fe6901d398d074178f5f11bef18e",
           "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[3]/section[1]/div[1]"
         }
       ]
     },
     {
-      "name": "Cards (no images)",
-      "cluster": 23,
+      "name": "Cards",
+      "cluster": 30,
       "source": "Cards",
-      "target": "Cards (cardsNoImages23)",
-      "key": "cardsNoImages23",
+      "target": "Cards (cards30)",
+      "key": "cards30",
+      "instances": [
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/deutschland-entwickelt-sich-zum-zweitgr%C3%B6%C3%9Ften-markt-f%C3%BCr-illegalen-tabak-in-der-eu",
+          "urlHash": "2055b429b2011d3fde7e962e490492f9efaf238d",
+          "uuid": "2055b429-06-70e982f8f3cb22ae42ed3582427d1cf6771b2cb3",
+          "xpath": "/html[1]/body[1]/main[1]/section[3]/div[2]/section[2]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 31,
+      "source": "Cards",
+      "target": "Cards (cards31)",
+      "key": "cards31",
+      "instances": [
+        {
+          "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/collaboration-is-key-to-fighting-illicit-trade-at-sea",
+          "urlHash": "48a5f44676e706085beca74c0a53ab2d236d91d4",
+          "uuid": "48a5f446-03-28c3b28214a2203a195aece11b125e34d881257d",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 32,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages32)",
+      "key": "cardsNoImages32",
       "instances": [
         {
           "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/ban-on-cigarette-sales-deepens-illicit-trade-problem-in-south-africa",
@@ -1384,16 +1660,16 @@
     },
     {
       "name": "Cards (no images)",
-      "cluster": 24,
+      "cluster": 33,
       "source": "Cards",
-      "target": "Cards (cardsNoImages24)",
-      "key": "cardsNoImages24",
+      "target": "Cards (cardsNoImages33)",
+      "key": "cardsNoImages33",
       "instances": [
         {
           "url": "https://www.pmi.com/sustainability",
           "urlHash": "65f78eb0027e2404c036880c7a67d87cfa1603ae",
-          "uuid": "65f78eb0-25-a203bd112b47743116f0775a5208090e2498d5a1",
-          "xpath": "/html[1]/body[1]/main[1]/section[8]/div[1]/section[2]"
+          "uuid": "65f78eb0-23-807529f3ac816f5bb999fa4a8f7da9ce9ddd058c",
+          "xpath": "/html[1]/body[1]/main[1]/section[8]/div[1]/section[1]"
         }
       ]
     }
@@ -1534,12 +1810,6 @@
     {
       "url": "https://www.pmi.com/sustainability",
       "urlHash": "65f78eb0027e2404c036880c7a67d87cfa1603ae",
-      "uuid": "65f78eb0-07-59308b4b7331929037a960e484f6696241cf5fa0",
-      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/picture[1]"
-    },
-    {
-      "url": "https://www.pmi.com/sustainability",
-      "urlHash": "65f78eb0027e2404c036880c7a67d87cfa1603ae",
       "uuid": "65f78eb0-08-93a82cacf393ae2b3872a02f1dbcdf901becd99e",
       "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]"
     },
@@ -1628,6 +1898,318 @@
       "xpath": "/html[1]/body[1]/main[1]/nav[1]"
     },
     {
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+      "uuid": "6961191a-01-770d2e0c4d4eee95e8c13dd3f7e0167f55566930",
+      "xpath": "/html[1]/body[1]/main[1]/section[1]/section[1]/div[1]/div[2]/picture[1]"
+    },
+    {
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+      "uuid": "6961191a-02-28c3b28214a2203a195aece11b125e34d881257d",
+      "xpath": "/html[1]/body[1]/main[1]/section[2]"
+    },
+    {
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+      "uuid": "6961191a-03-6b2b1a4151b502bcb63e4f6bf0618ef6acdb8cb0",
+      "xpath": "/html[1]/body[1]/main[1]/section[3]/div[1]/section[1]/h2[1]"
+    },
+    {
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+      "uuid": "6961191a-04-07bbdaa0f341a9ff3e2a3ef0ffc78cbe1c2c8b01",
+      "xpath": "/html[1]/body[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+      "uuid": "6961191a-06-3c9b5a2d18e7d33e29cc6c28785e4d03e0e08cf3",
+      "xpath": "/html[1]/body[1]/main[1]/section[3]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+      "uuid": "6961191a-07-33a2fb5e32b94da865deb86968f0153fe2ddaf28",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+      "uuid": "6961191a-09-c219a37682bdf55d2e8405b1f824b7c4b8f154c8",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+      "uuid": "6961191a-10-dda600c72630517b47cf0e198dcf0a9268319c49",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+      "uuid": "6961191a-11-f38ac1da0a7ee5fae37bc81cdc1bde5302c71c6f",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/h2[1]"
+    },
+    {
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+      "uuid": "6961191a-12-a29ae3ddf5d24877e9d453af9aff26485ed92eeb",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]"
+    },
+    {
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+      "uuid": "6961191a-13-25942dc6498a6f61a5fb2d20b524972e8e83abc7",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[2]"
+    },
+    {
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+      "uuid": "6961191a-14-d392e654c12b0099a4d261dd729401754112b185",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[3]"
+    },
+    {
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+      "uuid": "6961191a-15-6d063b6c960ec302f7d33acecbb0fac2b19d83a8",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[4]"
+    },
+    {
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+      "uuid": "6961191a-16-ba51f73eeca31d21f90678bc12c0e917ce4ef13c",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[5]"
+    },
+    {
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+      "uuid": "6961191a-17-87b7253d17102b743ba3062757740dab6478bf4e",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[6]"
+    },
+    {
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+      "uuid": "6961191a-18-52ed67fc38f80660a18185778819aef5bb685986",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[7]"
+    },
+    {
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+      "uuid": "6961191a-19-4d7c7172b0eea791e520291da692c8b9ea6ab27a",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[8]"
+    },
+    {
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+      "uuid": "6961191a-20-3225b67830c8937f847d9200c19d067f103feb41",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[9]"
+    },
+    {
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+      "uuid": "6961191a-21-ba59a47d739f4df4c0bf87e119175610db7a2cb7",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[10]"
+    },
+    {
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+      "uuid": "6961191a-22-423e69ccad4a98fa2f4fcaa33e5b14c09f996c28",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[11]"
+    },
+    {
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+      "uuid": "6961191a-23-f980b8781e0df469c13154c9f446b5bf889511f3",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[12]"
+    },
+    {
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+      "uuid": "6961191a-24-3acdd822cd8df71b2ca8e58d6ecc30856ad19c5f",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[13]"
+    },
+    {
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+      "uuid": "6961191a-25-43994b048bbfe78d33e07bb70a127076569ad7d5",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[14]"
+    },
+    {
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+      "uuid": "6961191a-26-483706bc75ce1c635514bffab766bda3c9887757",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[15]"
+    },
+    {
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+      "uuid": "6961191a-27-210a3006349b9d07a1b962dd97a905e3df5db8a4",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[16]"
+    },
+    {
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+      "uuid": "6961191a-28-53375efcfd59d674d6d48542204679216c7e7448",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[17]"
+    },
+    {
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+      "uuid": "6961191a-29-5ca606033e94a8e5d4990ffaeec156286a46c8ff",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[18]"
+    },
+    {
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+      "uuid": "6961191a-30-665b68626ef9e0ede742be7d6b83839dbd1fae8b",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[19]"
+    },
+    {
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+      "uuid": "6961191a-31-ce0545212280661ee477b21fea354d1bb5cd4cff",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[20]"
+    },
+    {
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+      "uuid": "6961191a-32-440d807290413d9a65b670998e3ef68d205a4d52",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[21]"
+    },
+    {
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+      "uuid": "6961191a-33-84ae0cca66b4bc6c132a7b7747d53d4810b8c655",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[22]"
+    },
+    {
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+      "uuid": "6961191a-34-8d8b222e29813ec19d616fbebbecb3d3c48ffca4",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[23]"
+    },
+    {
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+      "uuid": "6961191a-35-f363ee4b47ad2b91de480b86d81e24362d1b3dd9",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[24]"
+    },
+    {
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+      "uuid": "6961191a-36-d5636928be7bdecc7716acb491382285b901657d",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[25]"
+    },
+    {
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+      "uuid": "6961191a-37-81384cdec306ad9729794eec6485f327c60ec8ad",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[26]"
+    },
+    {
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+      "uuid": "6961191a-38-60a17a0e8a5f3fe3875bc25a650f422ece359f41",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[27]"
+    },
+    {
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+      "uuid": "6961191a-39-894c84bcdebf18f76d609415e4ad353e03b3ed08",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[28]"
+    },
+    {
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+      "uuid": "6961191a-40-1388a9a906f019c5c17302cb50cdbdfe29e8b60b",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[29]"
+    },
+    {
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+      "uuid": "6961191a-41-f8fd962049d216f02fd2dab08fcfb89a479f35a6",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[30]"
+    },
+    {
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+      "uuid": "6961191a-42-42c7df98b98872cc0f7b61e83e540dcbb362c5ed",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[31]"
+    },
+    {
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+      "uuid": "6961191a-43-0baef8fafa3d651540a95e66fce643de2a43fe30",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[32]"
+    },
+    {
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+      "uuid": "6961191a-44-48abc599b3bdeadd7ec7b390cfc21c9eb6668372",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[33]"
+    },
+    {
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+      "uuid": "6961191a-45-966889f67774e8dc4ce977b74456e87cf5888db6",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[34]"
+    },
+    {
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+      "uuid": "6961191a-46-aa1ec0918fb185821b1d408e2a8e667fc556f717",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[35]"
+    },
+    {
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+      "uuid": "6961191a-47-aca1b0132be1ead2884d78739588519f357852c1",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[36]"
+    },
+    {
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+      "uuid": "6961191a-48-49640d0668aba72b32f58da4d7381a762d60200b",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[37]"
+    },
+    {
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+      "uuid": "6961191a-49-a9f089b9df0355d273f3d9406cc8db4c24df98ec",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[38]"
+    },
+    {
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+      "uuid": "6961191a-50-61370839c48475374542e97f228f74aef0b8a6f6",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[39]"
+    },
+    {
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+      "uuid": "6961191a-51-65145877c250517f46cab155c102f8593817edc4",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[40]"
+    },
+    {
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+      "uuid": "6961191a-52-30b9d9cd5e6d323c0199e0c9e2b9ef808a89e3ea",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[41]"
+    },
+    {
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+      "uuid": "6961191a-53-3074f11d1772a03fb4117114b72255dcffed25fd",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "urlHash": "6961191a8e7ad70de2539e268ab1f0192aee1cca",
+      "uuid": "6961191a-55-99da68a4f1e827be4c9f48be5a4db08d423cd7b1",
+      "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]"
+    },
+    {
       "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/ambassador-alessandro-minuto-rizzo-on-combatting-illicit-trade-in-the-balkans",
       "urlHash": "6c18d230e7b7c6f3b595dbf68e1da71843d74b5e",
       "uuid": "6c18d230-01-5a29a6c0dedef07e2c83c80490e123e7ffd9bbe1",
@@ -1650,6 +2232,1296 @@
       "urlHash": "7d13333e1a38fdeea9609906ee044b674f9c0020",
       "uuid": "7d13333e-01-5a29a6c0dedef07e2c83c80490e123e7ffd9bbe1",
       "xpath": "/html[1]/body[1]/main[1]/nav[1]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-01-770d2e0c4d4eee95e8c13dd3f7e0167f55566930",
+      "xpath": "/html[1]/body[1]/main[1]/section[1]/section[1]/div[1]/div[2]/picture[1]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-02-28c3b28214a2203a195aece11b125e34d881257d",
+      "xpath": "/html[1]/body[1]/main[1]/section[2]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-03-3c9b5a2d18e7d33e29cc6c28785e4d03e0e08cf3",
+      "xpath": "/html[1]/body[1]/main[1]/section[3]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-05-6c86158b751cbb1efa5ecc3af4352bfc87271690",
+      "xpath": "/html[1]/body[1]/main[1]/section[3]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-06-68c43fe2a4d52037bd4c0e73b2c3d108cc697f85",
+      "xpath": "/html[1]/body[1]/main[1]/section[3]/div[1]/div[3]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-07-16e2d15de32151536b2ebe8ef4697b83802fcc43",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-08-cd11193adf16987996b80294c201983971a715b7",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/h2[1]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-09-345f01e15b2996c0f71ec511c273b15174df3465",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-10-a80b145330b50784b3943195827c2b67ea131eb4",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[2]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-11-2b59729c70beb489861268cc6b667d0ddce8191a",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[3]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-12-5c6258dec850639f67187da6c15534b9a1868b83",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[4]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-13-ca016e3117eaa0da1e3647072837c84c56f05662",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[5]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-14-a4700ce1d4bc5e2811dcea1f0527728401b68696",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[6]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-15-e71f8bd7b98f6a67f0d29f1d4dd1406aace539ca",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[7]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-16-4e93245018ba5f383da86032ddbe2252c0ae622b",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[8]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-17-2533642a4759afbe590038510b7f3a81b2f36a3c",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[9]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-18-261bddfd6956a7e47309b048f873b8a79312b729",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[10]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-19-bc80e6fcac3e175f2f7bd28b3dcda5a9b2c6f2a6",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[11]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-20-a0dd0e8e03a6d8819ba930b64d0e0955c8519ff0",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[12]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-21-fffcf4064c2bee75a8a5dcb08aea42bb00c2b03e",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[13]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-22-84adf97f5a51442510a5c8c10896878aa619bf23",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[14]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-23-8cba6fbe8461fcc0c15de8fbc34cf2da67cbdf20",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[15]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-24-1393b2bb0beaa98784e43f42c8ff799cf1d2296f",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[16]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-25-5e899daaf17458515599ae553a0ba5b392c27cf7",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[17]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-26-34fd2b74c50d98f577f78302cdacfb449ba853b5",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[18]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-27-95ff6c574b06b7de7000eafa0848307d1a762262",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[19]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-28-74ef26d12b4ce5423126d9e7b9266330a8f6a811",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[20]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-29-77b4056f643c377fb88c4897461a5c2b42864b21",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[21]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-30-8a027981861785de9b074d303745ad21d4a87a43",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[22]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-31-19c839359b1fe878bfbdeea1805fbe91b51d3386",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[23]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-32-c6b6cdd0bccaddece18303747c19c273d38876e8",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[24]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-33-43ce69c00bcf90c95fd23076cca197830700ce47",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[25]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-34-40b53a7a596d7885e63b909e4391708102336bfe",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[26]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-35-24677ee9831ffcd4a1eabf899c85f3c2cf1f0632",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[27]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-36-5a3d17f5898c3fc1ddeebb01deb953a02a43d4a9",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[28]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-37-8ebf28168a8c546a5e0cf26672bf49bac85b677c",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[29]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-38-4ae00d7e4baa1c9b575b50b80dd70630454e451c",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[30]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-39-2a208a40bc274a720e49b80eee3584f572d00057",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[31]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-40-dfdf0cbd21b4d4535b19096918cd34da192cb4a6",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[32]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-41-11f92e2217a9388cc7efa9fcb89e9cba256ce22d",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[33]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-42-1ed0d28be3c2a9ff89d7706c336c3f6d33d33434",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[34]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-43-0df0495866bdf3bafa73bb842efd6b1bfe5a84d6",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[35]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-44-df10f8309ce22e6cbf21ab10e5db6a0265177163",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[36]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-45-b407e76f1db95abace8067319961ac20a749408d",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[37]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-46-a842bcbae18e49650abae853d46698d32fb4e558",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[38]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-47-1afcbcb3d6e4d8747b110d011e017374d0f46ca6",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[39]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-48-b0f165750f0b6ef5ea27bfa1ef6ff77b6f739c2b",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[40]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-49-cd56e864db89fa41abb0bd7dd79cf6d3cc3969be",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[41]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-50-67cf2aa50f9bbbc44770b1579e1049d15a702609",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[42]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-51-a7bcfdcdf6b829b5fdbeef86b92c7549c7783dca",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[43]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-52-293fe957b327c9e61a3f302a8e3f0f971f934bf6",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[44]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-53-97e44306404a4c1451b8a2c86b0409bffd1053c4",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[45]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-54-3a409d7ed55a5edfda866f2ecc114fbcc1b1bdeb",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[46]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-55-fc8d0fa368b5a513cf0952ea24749e9f6798398e",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[47]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-56-5b454e166788a81a469ba65a31118c7595f891ff",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[48]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-57-c219a37682bdf55d2e8405b1f824b7c4b8f154c8",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-58-f38ac1da0a7ee5fae37bc81cdc1bde5302c71c6f",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/h2[1]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-59-a29ae3ddf5d24877e9d453af9aff26485ed92eeb",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-60-25942dc6498a6f61a5fb2d20b524972e8e83abc7",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[2]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-61-d392e654c12b0099a4d261dd729401754112b185",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[3]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-62-6d063b6c960ec302f7d33acecbb0fac2b19d83a8",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[4]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-63-dda600c72630517b47cf0e198dcf0a9268319c49",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-64-c1505fcc5c3ff8567f05341ce37556f5d7f3692e",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-65-ba51f73eeca31d21f90678bc12c0e917ce4ef13c",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[5]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-66-87b7253d17102b743ba3062757740dab6478bf4e",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[6]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-67-52ed67fc38f80660a18185778819aef5bb685986",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[7]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-68-4d7c7172b0eea791e520291da692c8b9ea6ab27a",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[8]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-69-3225b67830c8937f847d9200c19d067f103feb41",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[9]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-70-ba59a47d739f4df4c0bf87e119175610db7a2cb7",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[10]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-71-423e69ccad4a98fa2f4fcaa33e5b14c09f996c28",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[11]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-72-f980b8781e0df469c13154c9f446b5bf889511f3",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[12]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-73-3acdd822cd8df71b2ca8e58d6ecc30856ad19c5f",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[13]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-74-43994b048bbfe78d33e07bb70a127076569ad7d5",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[14]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-75-483706bc75ce1c635514bffab766bda3c9887757",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[15]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-76-210a3006349b9d07a1b962dd97a905e3df5db8a4",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[16]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-77-53375efcfd59d674d6d48542204679216c7e7448",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[17]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-78-5ca606033e94a8e5d4990ffaeec156286a46c8ff",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[18]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-79-665b68626ef9e0ede742be7d6b83839dbd1fae8b",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[19]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-80-ce0545212280661ee477b21fea354d1bb5cd4cff",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[20]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-81-440d807290413d9a65b670998e3ef68d205a4d52",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[21]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-82-84ae0cca66b4bc6c132a7b7747d53d4810b8c655",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[22]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-83-8d8b222e29813ec19d616fbebbecb3d3c48ffca4",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[23]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-84-f363ee4b47ad2b91de480b86d81e24362d1b3dd9",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[24]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-85-d5636928be7bdecc7716acb491382285b901657d",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[25]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-86-81384cdec306ad9729794eec6485f327c60ec8ad",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[26]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-87-60a17a0e8a5f3fe3875bc25a650f422ece359f41",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[27]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-88-894c84bcdebf18f76d609415e4ad353e03b3ed08",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[28]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-89-1388a9a906f019c5c17302cb50cdbdfe29e8b60b",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[29]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-90-f8fd962049d216f02fd2dab08fcfb89a479f35a6",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[30]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-91-42c7df98b98872cc0f7b61e83e540dcbb362c5ed",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[31]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-92-0baef8fafa3d651540a95e66fce643de2a43fe30",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[32]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-93-48abc599b3bdeadd7ec7b390cfc21c9eb6668372",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[33]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-94-966889f67774e8dc4ce977b74456e87cf5888db6",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[34]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-95-aa1ec0918fb185821b1d408e2a8e667fc556f717",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[35]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-96-aca1b0132be1ead2884d78739588519f357852c1",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[36]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-97-49640d0668aba72b32f58da4d7381a762d60200b",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[37]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-98-a9f089b9df0355d273f3d9406cc8db4c24df98ec",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[38]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-99-61370839c48475374542e97f228f74aef0b8a6f6",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[39]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-100-65145877c250517f46cab155c102f8593817edc4",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[40]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-101-30b9d9cd5e6d323c0199e0c9e2b9ef808a89e3ea",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[41]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-102-637f08e98b92608281c78a1f7255f741fd5584ef",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[42]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-103-cffe12ec0071d463e03faff3b1f1a493775fc9e8",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[43]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-104-4e3f737822c4e0cab9e931d7eb4bc6b8bb33b290",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[44]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-105-807f811e29f75346d43467de95e8a6c3019a1850",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[45]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-106-89b393ad47a22205abd642d8e84eca7245a96852",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[46]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-107-7e2eee9f1833ca88a9e1f4a0d348941643ad25d2",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[47]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-108-3411a55c975f90da281c1833025b748cc5d2e16b",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[48]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-109-e6896116c247ab92b926be7304da07f46b3c0a7f",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[49]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-110-5604c7a43aeb947ab94d72b2a09cea394b78124d",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[50]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-111-6130c75c7bb454cc572358e7a110db1e501149a1",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[51]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-112-fb148fb3e4ee1dbb7836659954a0704630c78df5",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[52]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-113-c7c47e98f00dd670dd35d9cafa8cef755f08a69c",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[53]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-114-7dac9c193e58923ae177b98d966ebb01d64c929f",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[54]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-115-bd320f0b5b552f34fde849e7b0b50ff70cede90e",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[55]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-116-892d9ae4e87be8c0e070aea94b14275ca4445510",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[56]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-117-60127e99cb98c08a142170148909316d326eb20f",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[57]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-118-c554023ac49c78dc62de62dca88eca2dacb0cc40",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[58]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-119-f94513caf5cd1cd362ed86057136e3c7372595c3",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[59]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-120-a2b433812a099f6d3546ed0761edd01622c6d0be",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[60]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-121-d81b5f5629647ef1c2f6e3dfac34989cec875472",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[61]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-122-886cff51fa75092aed141b297868dcde49bfca54",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[62]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-123-c2453583b51b6bde030cd2c2eeadeef025b82fbf",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[63]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-124-754a21fc9c7c43bd675c90ea7a03be20ca3fae63",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[64]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-125-e4f2a964969494eb4f27528155016701008e3f14",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[65]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-126-a67797c8cbb84f90623145f95c2cd32d72b80d09",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[66]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-127-3dc74f2bffb0ebaf39b6cab7f70ad674aee98aa5",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[67]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-128-dab39dc07f5d8846f3a446e96f5cf9bbfd53dc75",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[68]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-129-e1734e4afde7ea6fef727ab778b5ffb565a0aa34",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[69]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-130-bfea21f753b77657c85860cb879b52479d4a6132",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[70]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-131-28b5c08179acd765fea0d9ca4dc1f4b9ec461b18",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[71]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-132-aca732f66f16cb1fbc9ede7045d845f76a78c212",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[72]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-133-7409b8382ee55e8a1cf1652c591161affb24e092",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[73]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-134-e411e793959db8578ecba78c5a17370dd4efb870",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[74]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-135-b4f45cf5f9dc77da4f05c59cbb1a8307746a1b1f",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[75]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-136-d92937e15d9a032693e855977e1363fa66303115",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[76]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-137-42ee1949169dfcdcb775fcba35e5833bc21af382",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[77]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-138-679c89a70cb3e7ca41f1497487987a6a3416b2ab",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[78]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-139-8e0f0b4b2ab4fc39bb3b970574f346694d1ec485",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[79]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-140-f6aceed195e70d793dc5faa67f25393a5f715674",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[80]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-141-753c6180fcd9635dc271372371d6188a33b61b08",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[81]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-142-952369640765fcd3b041a35d0d7ab74638dff0a6",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[82]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-143-3c7cba2368f5a48d2623aa9bd75fa8c43ba63585",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[83]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-144-fc46a66e2f8db748b3e84e4a909ff553d6825de7",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[84]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-145-5fdebd4ead086fac1b04b7278ed3d06981d3d0de",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[85]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-146-7e5310e3ef148ec7f8ff602a5093af77d30eb807",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[86]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-147-4dc9811c872cfa3311c9b4e1a8bb8d5e162fee9f",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[87]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-148-ba609bd599a5414b125301d1250b65a2898ffb44",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[88]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-149-edfdeedf8428315afd8ca294659fa863be0b2ddc",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[89]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-150-7535644c70a8ac0a66945e828beac8363bdf7ea7",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[90]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-151-a4f0b62b2d9bba4f38ab743f99f3567ea8fa2ee2",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[91]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-152-df50ce4a85fab07d854677325d7c25ea58a205bd",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[92]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-153-ac44fa50e1c4ef06b71d3dcf79d514b7da303db1",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[93]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-154-86d91d610d1e5bfcdbb6a17b8e8a57cb8d404c6b",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[94]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-155-e667fc8e62ec5934285d45fd4888137e54b8dcfe",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[95]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-156-f10e9a52cae4bfe9ae63b21ee2a48047cbb2066f",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[96]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-157-3bc9a2ee8dabd66f984615224a8ed0f47584c1b8",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[97]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-158-291f64d39edef7b2bb2d86cbebfbd5ffd5e3f4c6",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[98]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-159-ff053efbf171ad6823479cc2e74aa0615c0a042b",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[99]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-160-d178a84645394c6206000384f54a20ca8539f063",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[100]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-161-3e6de78da614834e9d12fe0c01b88bdf025bcd68",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[101]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-162-d0690fa1b47ec6832d01d1d810289b159d9b2bcd",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[102]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-163-1534c88905280af6e19ebd6132edd42a6039f884",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[103]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-164-ff2872cfe5cec3a763efe253b4206f52847128f1",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[104]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-165-22710b05d968e7decafaf544e8a46d5e1bd3b266",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[105]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-166-94d3b5892a0c7b4f0c12c3359c8170355bb03eed",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[106]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-167-5430104e5f921853f517551acb8b192bce998692",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[107]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-168-5d092d1d4afb9988a94f9b77267922daf32b49e7",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[108]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-169-d688df43fd83f3b14e5b40c38dd45a167c36b7f0",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[109]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-170-f36830edbbf128c186c784d7baa14f4d4fc0bccb",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[110]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-171-03f75add3b20bc50fe77c29b3e17603f5fc568c6",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[111]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-172-f291f8ec12a4fc8153ce090a47ac72b41e69d511",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[112]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-173-ec8045de23b15dec087e4a3a38153e323256ff06",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[113]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-174-2de61e36a524ca675dafc367194dadd87646d088",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[114]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-175-2b9cf797449b69ac31000fb5e314979be9d36aef",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[115]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-176-81c8ded75b64312a74093aa685664ca11bc48a98",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[116]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-177-dab696d147238421936ec59c255242f66341e60c",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[117]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-178-11920676f875aec31720612d400b13b93229b3cc",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[118]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-179-49a603b5ec1d766c3bc32c7fa4c5cac7b154e26a",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[119]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-180-b6f35d6a4f2da5ef5328bfe0739229e7862e5b12",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[120]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-181-24ecbfa278887a16fdf9ac94b0cfc036eab30e1a",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[121]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-182-83dd5a581ff494fdc27e9ca8466af6a6276ad368",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[122]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-183-0fc3cccf6cb4fe8fbdf30878180a4cd9b560408c",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[123]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-184-3b3e40ad42603b71d1ddf341f7cbf5ec7ecb3391",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[124]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-185-df2655b1092984d99a56399600926d582562509b",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[125]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-186-a488d2b8b96f2b59c18840572495b7891b758cd0",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[126]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-187-c054f01c76eb3b558f87c30930ef8c4d5cf9c555",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[127]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-188-7fea9a799d9213be6ae1b3dbc5139d69def27fa8",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[128]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-189-2b741a2e888e048f83136900d9445bee1d003014",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[129]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-190-4d642a81b46d837999b8147c3c33c8a88919ff0a",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[130]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-191-354ce5f099fd38e206084fe2d9c91ebb4f127f51",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[131]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-192-2d8f67722b81bba19913cc5b2e4d3196a93bedf3",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[132]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-193-1e79ec9f5eaef8d25cfd2ec6340ae618706d874e",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[133]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-194-60eb1ef03e5da26640322f89fe1d70fcf3745660",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[134]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-195-4e715c52d74d9b721f85bd427c8e90021706fc8b",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[135]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-196-9106ac4c0ae9a81ebf4f1f6c18c53e75b55de221",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[136]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-197-a8b552f096715faf50a8da0ca77650956ebbb76e",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[137]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-198-a666f4e1a716f8ef077682d0f17ebe4c7fc0d823",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[138]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-199-c1af2c78b33bdb1e3a3e96b7955025b757b6e3df",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[139]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-200-10185ceaf7eb1996530948489014c703453fb326",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[140]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-201-947958dd6421b6faa62d19eed4092bf1445f5ce9",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[141]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-202-7c2f86fd957ff8bbf13da10b79d26914f7e79451",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[142]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-203-a4f305f54d3085c9d689cdf1c8ce9dd13db1a449",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[143]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-204-e90ff6769ee782d4be194c64e5614c7519b13ac9",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[144]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-205-2a9b687aadb686d22c3f640b9e4b6a3e157b00ab",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[145]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-206-d5617b42341c4d5e51e2e85102178b83e6b92a97",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[146]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-207-04cb44f0da05527fd5570f626c407e789cb819ed",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[147]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-208-5f7ab9efad12375108ae87ce9e2577a70eaaac9e",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[148]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-209-6bd46897e3ca68ba9ee3d9adcdc97cba666a14c7",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[149]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-210-4aea95e1bbb39083d95d22b5034bed42aca7f452",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[150]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-211-2c8f2779091facdd24dfde3c988ac20839e28d37",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[151]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-212-ebc90af50e7e57075e7b68e805029f6e8c51f6c1",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[152]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-213-07342465acf2d49f9478b4daa40933c4ce8eb0ab",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[153]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-214-c1e31a3625fcbc5053a008713278f88948d19849",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[154]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-216-40bada8a5bf6112ec63df39dfa88b0b7ab0d35e1",
+      "xpath": "/html[1]/body[1]/main[1]/section[7]"
+    },
+    {
+      "url": "https://www.pmi.com/our-progress",
+      "urlHash": "885ac84dd33088c6ec97c9c38c6a6ced4f25438a",
+      "uuid": "885ac84d-217-a821291795c788a00531134a79c9c60ee13281aa",
+      "xpath": "/html[1]/body[1]/main[1]/section[8]/div[1]/div[1]/div[1]/div[1]"
     },
     {
       "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/combatting-global-criminal-enterprises-in-ftzs",
@@ -1686,6 +3558,66 @@
       "urlHash": "b7b0da2ce8cc1365c7032fb9ab130e806ab40edb",
       "uuid": "b7b0da2c-01-5a29a6c0dedef07e2c83c80490e123e7ffd9bbe1",
       "xpath": "/html[1]/body[1]/main[1]/nav[1]"
+    },
+    {
+      "url": "https://www.pmi.com/our-business",
+      "urlHash": "b8da384a1e85fc44ba947b90c31d0159443af1e2",
+      "uuid": "b8da384a-01-770d2e0c4d4eee95e8c13dd3f7e0167f55566930",
+      "xpath": "/html[1]/body[1]/main[1]/section[1]/section[1]/div[1]/div[2]/picture[1]"
+    },
+    {
+      "url": "https://www.pmi.com/our-business",
+      "urlHash": "b8da384a1e85fc44ba947b90c31d0159443af1e2",
+      "uuid": "b8da384a-02-28c3b28214a2203a195aece11b125e34d881257d",
+      "xpath": "/html[1]/body[1]/main[1]/section[2]"
+    },
+    {
+      "url": "https://www.pmi.com/our-business",
+      "urlHash": "b8da384a1e85fc44ba947b90c31d0159443af1e2",
+      "uuid": "b8da384a-03-3c9b5a2d18e7d33e29cc6c28785e4d03e0e08cf3",
+      "xpath": "/html[1]/body[1]/main[1]/section[3]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.pmi.com/our-business",
+      "urlHash": "b8da384a1e85fc44ba947b90c31d0159443af1e2",
+      "uuid": "b8da384a-05-6c86158b751cbb1efa5ecc3af4352bfc87271690",
+      "xpath": "/html[1]/body[1]/main[1]/section[3]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.pmi.com/our-business",
+      "urlHash": "b8da384a1e85fc44ba947b90c31d0159443af1e2",
+      "uuid": "b8da384a-06-33a2fb5e32b94da865deb86968f0153fe2ddaf28",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.pmi.com/our-business",
+      "urlHash": "b8da384a1e85fc44ba947b90c31d0159443af1e2",
+      "uuid": "b8da384a-08-c219a37682bdf55d2e8405b1f824b7c4b8f154c8",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.pmi.com/our-business",
+      "urlHash": "b8da384a1e85fc44ba947b90c31d0159443af1e2",
+      "uuid": "b8da384a-09-dda600c72630517b47cf0e198dcf0a9268319c49",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://www.pmi.com/our-business",
+      "urlHash": "b8da384a1e85fc44ba947b90c31d0159443af1e2",
+      "uuid": "b8da384a-10-f38ac1da0a7ee5fae37bc81cdc1bde5302c71c6f",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/h2[1]"
+    },
+    {
+      "url": "https://www.pmi.com/our-business",
+      "urlHash": "b8da384a1e85fc44ba947b90c31d0159443af1e2",
+      "uuid": "b8da384a-11-3074f11d1772a03fb4117114b72255dcffed25fd",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.pmi.com/our-business",
+      "urlHash": "b8da384a1e85fc44ba947b90c31d0159443af1e2",
+      "uuid": "b8da384a-13-99da68a4f1e827be4c9f48be5a4db08d423cd7b1",
+      "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]"
     },
     {
       "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/disrupting-illicit-trade-technology-innovation-is-needed-to-crack-a-global-issue",
@@ -1734,6 +3666,630 @@
       "urlHash": "e6048a6a88f94a1e554607b830ff230d9a6f95e3",
       "uuid": "e6048a6a-01-5a29a6c0dedef07e2c83c80490e123e7ffd9bbe1",
       "xpath": "/html[1]/body[1]/main[1]/nav[1]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-01-770d2e0c4d4eee95e8c13dd3f7e0167f55566930",
+      "xpath": "/html[1]/body[1]/main[1]/section[1]/section[1]/div[1]/div[2]/picture[1]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-02-28c3b28214a2203a195aece11b125e34d881257d",
+      "xpath": "/html[1]/body[1]/main[1]/section[2]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-03-e15d145a9fd02d5b6e865de615d9628d6bc83768",
+      "xpath": "/html[1]/body[1]/main[1]/section[3]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-05-10375e89f677f4a2469b0f6b7a28efb27dcfa0d7",
+      "xpath": "/html[1]/body[1]/main[1]/section[3]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-07-93a82cacf393ae2b3872a02f1dbcdf901becd99e",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-09-e108f07c545c1aec48e7fcd9aec52de94cbf30ef",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-10-3307f0387fafc05485eb895a95ad998e49ed1c41",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/h2[1]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-11-0b5e34bcd7f6790ab3fec6ac301164b56ba58d0b",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-12-3b0e5da447478524c1105aee0f33faabca9c115f",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[2]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-13-ba5da55d7f4266efffdfccb7c4b657875621ef22",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[3]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-14-f6419f4c44d67c16f2ab68bd14297d3160b4759f",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[4]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-15-21abaa82b3f9792186840f18ad12898738737105",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[5]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-16-e371cdefac0e76ce28c2a8a25a80a37fae57702b",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-17-78b0e734d6afc281b537e355899c0f8e4c44ff03",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-18-ac4a737aac6b24f36eab1d9041f4950eda1414d7",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[6]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-19-e4b3ac16d6bce6c3185ecb0e7f6e720249618398",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[7]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-20-248e25bd2f5912e98caecf5773ab7045501507b6",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[8]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-21-f66e9a505336e21d2348995da809e24550ec6301",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[9]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-22-2164d0d0293220beeb5a1d44d01b012d4b0acdd9",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[10]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-23-f087cbbf1402e21c21ae6505fcf95a09271e6795",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[11]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-24-96c2b5e8ef817db49aaee215c7642355766fadb1",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[12]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-25-d38087e6e35db957930a892e637308f23b5e156f",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[13]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-26-673d6abb6679905ce10107f932c6080c0f35df4d",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[14]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-27-c7c0792d82650a73630745abe7da63091e86693b",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[15]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-28-a6f87c1213b1f861960082182b7427672afeb74c",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[16]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-29-92491d9a2be9f56ae3fad91cb1902a81beca951b",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[17]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-30-267afaaebfde57b0d87def754219fcc7daf7d37d",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[18]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-31-080353de12635083743716c4e9d1ee02a47341bc",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[19]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-32-2e1976f1bd7dd17b813b54b24cd878102e90d3d5",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[20]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-33-06ca5d1b0a24ecdc27a3755d23d393d707767d21",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[21]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-34-48c76ac953b179a36e2a60c973d6e9209f82dd8c",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[22]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-35-bfc1d6cfc044b81e1982d7f9edebe27abea31b0d",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[23]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-36-5532d17a2ae14160bb8725983df130112d2f402a",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[24]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-37-95e8809a56551054e429c2e4584e5d76b0e2ae71",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[25]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-38-fb1ca69b3412a537052c5ea299ace92d2a14e94b",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[26]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-39-55f17e02bbca87df88012dfe327dd6a2e475e67b",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[27]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-40-b9c5da1fef4514996375f100657ef7958c6e111d",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[28]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-41-82653d94934513419aa3e616b51bac6e80303080",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[29]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-42-3a3b00695bc63bf5939c81b5f9cda91f016d273b",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[30]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-43-91d3dc113e2b73594532ec1eb7cea812ec406f49",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[31]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-44-f88348fe74cc5b79f34263cfbf2607cd2b76a0c1",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[32]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-45-64e935187f86ba5aafe49aad29a4495288a75fba",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[33]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-46-7a80f4a6c360053c3673041aaf81fc8e34709b2e",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[34]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-47-0c44ad7cd32cbbaa6bb667b6e9faeaa398eca049",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[35]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-48-09ac7ddf4caf7e74d81544c4ff6dc6631d99fefc",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[36]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-49-96890f7f3746ffeb001266b5e2d38877100fe474",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[37]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-50-092f589cdcd5dc6c2f6125949827c5aa4ecb0fb5",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[38]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-51-f2c6fc8457bda81e839dd6b3c9abcbb05be09ab8",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[39]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-52-c03a7c465aaea3a53314e108bcd47d1655be0755",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[40]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-53-84e56e5e9942009154841a11d1f22892474131b8",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[41]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-54-cb67748d0995f1bd3585fda2102f0d38578403f2",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[42]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-55-984fb2a710fcf82d1d135502223bee81064a8c14",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[43]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-56-986eaac9b5eb2580f0dc8d66bf5f5e7c3f5877ab",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[44]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-57-3bf8a4f4201912bb5bad32e93b4045ffa2f5660b",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[45]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-58-5c5fe2a87f16d1205f801debde14570ad61b196c",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[46]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-59-e3250d282534c26579e156d22b48cfeb6003d0b1",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[47]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-60-4f77691050d44e870561972bdffc7d3572718c28",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[48]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-61-dca53a349d86d7cd5b6166b6b71b27ecaa797147",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[49]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-62-787c522819a6ddf2a4204a8cda5923cebe19e522",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[50]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-63-17e2d06f23dbf4c76e12b2cb2df1c26fa68c42e7",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[51]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-64-e0d11296fa24d93477652afc561bbff0a19a2a1b",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[52]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-65-323ca05f76ed5088cdca2e68ed1605ca4c97586a",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[53]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-66-37b32b783fbd2f5b6befbb73baf05ec0592f157b",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[54]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-67-23745b778e4a6347e1fb2805749ee9989d06e2ec",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[55]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-68-7ac9d922e5b31baba29b5526d82ab259e1dc3bfc",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[56]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-69-653c7bcd8bf437aa652772b53a7853679ebbf9fa",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[57]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-70-f28b9f33b949ee8d328f5e04404379e015526fdf",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[58]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-71-5a9cd9e48b1c2f32983963b5283a350fb0b7cabf",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[59]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-72-059a460fa7ef08d52844d6ccc4743b3280d11088",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[60]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-73-284fccb276ee6e1a180cd54af39c653271ecccca",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[61]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-74-922f17d231a0d37d38decf0ff8479f1c02136b5b",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[62]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-75-0eef60bc52b99cfa1f5c7fdbc5fe918f02c4bcb2",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[63]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-76-dc7c7f8cf860d8435a4ebb6d8a7d779c985dfc86",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[64]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-77-0df7fa03afd16b35afb25fed015c02ba69c7e290",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[65]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-78-cf25eb7d77f1af98026e225d18d000edfcceb8a2",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[66]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-79-857ce7f1b8778aba0aad37e80e9eebf78e2ca536",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[67]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-80-f54f4820dd04c4baf7f5af9d3c08bf361292a5bf",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[68]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-81-4077d627b1e811c8ec4d44c2c6ebabedaa5c2f69",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[69]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-82-00191a704aec7e81b3aea60b54c422e3bc692b17",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[70]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-83-457c1de28cab19954ede2d108eb4841370498e7d",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[71]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-84-648d8407727ff83528b3786ac4dc9141015baaff",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[72]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-85-1f96cc922240f492020da57eeaa40f61c3358992",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[73]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-86-79e9b57d047bd28a795b3759b5d7a76e02f265dc",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[74]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-87-c4e925275f428a8762726662829f1b6a54d21baf",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[75]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-88-f2b3f2571182a40be5581d049d8df7fd02f1f7d9",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[76]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-89-7c914e06b97dda6dce3e8d09e286ae298273ead0",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[77]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-90-091cfb769eed21089befeedb438c5c65af0dfcb8",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[78]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-91-99af0d16dc6a9bae0eecf8204cbe24c1807e42d1",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[79]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-92-b8fe352f29e64f1b6f8c4f3c0b1791c44143cd7b",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[80]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-93-f9916a14f0536caef7f2f6ed43fa3f98b6c9ed37",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[81]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-94-1e2975bceff34875d25f76564096044d3495f787",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[82]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-95-cc44c631548d3b773088254ba7d595a73b97d8d6",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[83]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-96-45c27219e503e0eaa6b1957bf9442ea9b2c7b74a",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[84]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-97-a4c40d1bb266f143c40e22c8c4825c86edf55ad1",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[85]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-98-08f76b5e782bd33b6a5bcd349125828a404d2fc9",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[86]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-99-c7b30c51180a94c3a24b173ff93e5ffc5b7b86ee",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[87]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-100-0b1ffd32e9523f52b8591a730a93821920d9408b",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[88]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-101-538c24c87130311dc236a3a5c2a8c86e23eda9b5",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[89]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-102-9b67d165d48f831202a1669b8dfe837d9099a8b3",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[90]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-103-608f24c548a59af5b1dafd6f54bafc3cf606d6d7",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[91]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-104-b580efa27b1fe7153ac64ba3a23edb7d62259ee5",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[92]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-105-109d86f4f96add2066a55bd8c016f18a399f9248",
+      "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[93]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-107-25fec07935b3d708cfca82a3af89e34261c8bab5",
+      "xpath": "/html[1]/body[1]/main[1]/section[8]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.pmi.com/our-science",
+      "urlHash": "f5fab645777a639ae5cdba709869d725519dfc8c",
+      "uuid": "f5fab645-109-011979d89124c72b7b9dee2c0f0fe3393436fb74",
+      "xpath": "/html[1]/body[1]/main[1]/section[9]/div[1]/section[1]/h2[1]"
     }
   ]
 }
