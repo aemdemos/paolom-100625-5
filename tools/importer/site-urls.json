@@ -3,6 +3,12 @@
   "lastCrawled": "https://www.pmi.com/",
   "urls": [
     {
+      "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/29-raids-in-five-countries-close-down-illegal-cigarette-factories-across-europe",
+      "source": "SITEMAPS",
+      "targetPath": "/our-business/illicit-trade-prevention/blog/29-raids-in-five-countries-close-down-illegal-cigarette-factories-across-europe",
+      "id": "14d92bec2e28bdd2711c22f5d3c872d3b62b87b4"
+    },
+    {
       "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
       "source": "SITEMAPS",
       "targetPath": "/who-we-are/who-we-are-overview",
@@ -31,12 +37,6 @@
       "source": "SITEMAPS",
       "targetPath": "/sustainability",
       "id": "65f78eb0027e2404c036880c7a67d87cfa1603ae"
-    },
-    {
-      "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/29-raids-in-five-countries-close-down-illegal-cigarette-factories-across-europe",
-      "source": "SITEMAPS",
-      "targetPath": "/our-business/illicit-trade-prevention/blog/29-raids-in-five-countries-close-down-illegal-cigarette-factories-across-europe",
-      "id": "14d92bec2e28bdd2711c22f5d3c872d3b62b87b4"
     },
     {
       "url": "https://www.pmi.com/our-business/illicit-trade-prevention/blog/adult-smokers-deserve-access-to-smoke-free-products-even-during-tough-times",
