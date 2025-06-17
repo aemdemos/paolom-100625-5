@@ -1,48 +1,45 @@
 /* global WebImporter */
 export default function parse(element, { document }) {
-  // Header row: one column only, per the requirement
   const headerRow = ['Cards (cards22)'];
-  const rows = [headerRow];
-
-  // Select all direct card elements
-  const cardDivs = element.querySelectorAll(':scope > .small-image-above-title');
-  cardDivs.forEach(cardDiv => {
-    // --- IMAGE CELL ---
-    let imageEl = null;
-    const pictureLink = cardDiv.querySelector(':scope > .small-image-above-title--picture');
+  const rows = [];
+  const cards = element.querySelectorAll('.small-image-above-title');
+  cards.forEach(card => {
+    // IMAGE cell: reference the <img> element only
+    let imageCell = '';
+    const pictureLink = card.querySelector('a.small-image-above-title--picture');
     if (pictureLink) {
-      const backPicture = pictureLink.querySelector('.back-picture');
-      if (backPicture) {
-        const img = backPicture.querySelector('img');
-        if (img) {
-          imageEl = img;
-        }
-      }
+      const image = pictureLink.querySelector('img');
+      if (image) imageCell = image;
     }
-
-    // --- TEXT CELL ---
-    const contentDiv = cardDiv.querySelector(':scope > .small-image-above-title--content');
-    const textCellChildren = [];
-    if (contentDiv) {
-      // Title (as heading)
-      const titleLink = contentDiv.querySelector('.small-image-above-title--title');
-      if (titleLink) {
-        textCellChildren.push(titleLink);
-        textCellChildren.push(document.createElement('br'));
-      }
-      // Arrowed-link as CTA
-      const ctaLink = contentDiv.querySelector('.arrowed-link');
-      if (ctaLink && ctaLink.textContent.trim()) {
-        textCellChildren.push(ctaLink);
-      }
+    // TEXT cell: build a fragment with heading, description, and CTA
+    const frag = document.createDocumentFragment();
+    const titleA = card.querySelector('.small-image-above-title--title');
+    if (titleA) {
+      const h = document.createElement('h3');
+      h.textContent = titleA.textContent.trim();
+      frag.appendChild(h);
     }
-    // Each card row: an array of TWO elements [image, text-content]
-    rows.push([
-      imageEl,
-      textCellChildren.length > 0 ? textCellChildren : ''
-    ]);
+    // Description (must appear between title and CTA)
+    const descP = card.querySelector('.small-image-above-title--link p');
+    if (descP) {
+      // Use a new p to avoid accidental DOM removal
+      const p = document.createElement('p');
+      p.textContent = descP.textContent.trim();
+      frag.appendChild(p);
+    }
+    // CTA
+    const ctaA = card.querySelector('.arrowed-link');
+    if (ctaA) {
+      const a = document.createElement('a');
+      a.href = ctaA.href;
+      a.textContent = ctaA.textContent.trim();
+      frag.appendChild(a);
+    }
+    rows.push([imageCell, frag]);
   });
-
-  const block = WebImporter.DOMUtils.createTable(rows, document);
-  element.replaceWith(block);
+  const table = WebImporter.DOMUtils.createTable([
+    headerRow,
+    ...rows
+  ], document);
+  element.replaceWith(table);
 }
