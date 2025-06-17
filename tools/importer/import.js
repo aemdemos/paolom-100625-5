@@ -11,24 +11,32 @@
  */
 /* global WebImporter */
 /* eslint-disable no-console */
-import search4Parser from './parsers/search4.js';
-import cards8Parser from './parsers/cards8.js';
-import cardsNoImages13Parser from './parsers/cardsNoImages13.js';
-import embedVideo9Parser from './parsers/embedVideo9.js';
-import search3Parser from './parsers/search3.js';
+import hero1Parser from './parsers/hero1.js';
 import embedVideo6Parser from './parsers/embedVideo6.js';
-import cardsNoImages15Parser from './parsers/cardsNoImages15.js';
-import accordion14Parser from './parsers/accordion14.js';
-import cards5Parser from './parsers/cards5.js';
-import cards20Parser from './parsers/cards20.js';
-import cardsNoImages23Parser from './parsers/cardsNoImages23.js';
-import cardsNoImages24Parser from './parsers/cardsNoImages24.js';
-import columns7Parser from './parsers/columns7.js';
-import cards18Parser from './parsers/cards18.js';
-import columns10Parser from './parsers/columns10.js';
-import columns11Parser from './parsers/columns11.js';
+import embedVideo12Parser from './parsers/embedVideo12.js';
+import accordion3Parser from './parsers/accordion3.js';
+import embedVideo8Parser from './parsers/embedVideo8.js';
+import embedVideo4Parser from './parsers/embedVideo4.js';
+import accordion18Parser from './parsers/accordion18.js';
+import embedVideo17Parser from './parsers/embedVideo17.js';
+import columns15Parser from './parsers/columns15.js';
+import hero11Parser from './parsers/hero11.js';
+import columns9Parser from './parsers/columns9.js';
+import cardsNoImages25Parser from './parsers/cardsNoImages25.js';
+import columns23Parser from './parsers/columns23.js';
+import hero26Parser from './parsers/hero26.js';
+import cardsNoImages28Parser from './parsers/cardsNoImages28.js';
+import cards29Parser from './parsers/cards29.js';
+import columns27Parser from './parsers/columns27.js';
+import carousel20Parser from './parsers/carousel20.js';
+import cards31Parser from './parsers/cards31.js';
+import cardsNoImages33Parser from './parsers/cardsNoImages33.js';
+import cardsNoImages32Parser from './parsers/cardsNoImages32.js';
+import cards30Parser from './parsers/cards30.js';
 import cards22Parser from './parsers/cards22.js';
-import embedVideo19Parser from './parsers/embedVideo19.js';
+import columns2Parser from './parsers/columns2.js';
+import columns13Parser from './parsers/columns13.js';
+import cards21Parser from './parsers/cards21.js';
 import headerParser from './parsers/header.js';
 import metadataParser from './parsers/metadata.js';
 import cleanupTransformer from './transformers/cleanup.js';
@@ -44,24 +52,32 @@ import {
 
 const parsers = {
   metadata: metadataParser,
-  search4: search4Parser,
-  cards8: cards8Parser,
-  cardsNoImages13: cardsNoImages13Parser,
-  embedVideo9: embedVideo9Parser,
-  search3: search3Parser,
+  hero1: hero1Parser,
   embedVideo6: embedVideo6Parser,
-  cardsNoImages15: cardsNoImages15Parser,
-  accordion14: accordion14Parser,
-  cards5: cards5Parser,
-  cards20: cards20Parser,
-  cardsNoImages23: cardsNoImages23Parser,
-  cardsNoImages24: cardsNoImages24Parser,
-  columns7: columns7Parser,
-  cards18: cards18Parser,
-  columns10: columns10Parser,
-  columns11: columns11Parser,
+  embedVideo12: embedVideo12Parser,
+  accordion3: accordion3Parser,
+  embedVideo8: embedVideo8Parser,
+  embedVideo4: embedVideo4Parser,
+  accordion18: accordion18Parser,
+  embedVideo17: embedVideo17Parser,
+  columns15: columns15Parser,
+  hero11: hero11Parser,
+  columns9: columns9Parser,
+  cardsNoImages25: cardsNoImages25Parser,
+  columns23: columns23Parser,
+  hero26: hero26Parser,
+  cardsNoImages28: cardsNoImages28Parser,
+  cards29: cards29Parser,
+  columns27: columns27Parser,
+  carousel20: carousel20Parser,
+  cards31: cards31Parser,
+  cardsNoImages33: cardsNoImages33Parser,
+  cardsNoImages32: cardsNoImages32Parser,
+  cards30: cards30Parser,
   cards22: cards22Parser,
-  embedVideo19: embedVideo19Parser,
+  columns2: columns2Parser,
+  columns13: columns13Parser,
+  cards21: cards21Parser,
 };
 
 const transformers = {
